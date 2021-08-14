@@ -1,3 +1,0 @@
-- [Home](README.md)
-- [Planejamento](docs/planejamento.md)
-- [Processo de design](docs/processo-de-design.md)
