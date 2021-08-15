@@ -1,5 +1,7 @@
 - [Home](README.md)
-- [**Planejamento**](#)
-	- [Site Selecionado](pages/site-selecionado.md) 
-- [Processo de design](pages/processo-de-design.md)
+- [**Planejamento**](#)	
+	- [Planejamento](pages/planejamento.md)
+    - [Ferramentas](pages/ferramentas.md)
+	- [Site Selecionado](pages/siteSelecionado.md)
 - [Processo de design](pages/ProcessoDesign.md)
+

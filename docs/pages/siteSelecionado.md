@@ -1,4 +1,5 @@
-![](../images/semob_logo.png)
+<img src="images/semob_logo.png">
+
 
 O site escolhido foi o da Secretaria de Transporte e Mobilidade(SEMOB) do Distrito Federal. A seguir é apresentado uma breve análise do site seguindo o artigo “Avaliação Heurística de Sítios na Web”.
 
@@ -47,33 +48,33 @@ O site escolhido para avaliação é da Secretaria de Transporte e Mobilidade(SE
 Um primeiro elemento a ser identificado é a visualização de acesso ao SEI. A ausência de algum fundo nas letras dificulta a identificação das palavras, comportamento que não se repete em outras páginas do site por existir imagens ao fundo.
 
 Figura 1: Parte superior da página inicial
-![](../images/site-selecionado-figura1.png)
+<img src="images/site-selecionado-figura1.png">
 
 Tabela 1: Formulário para Avaliação Heurística - Visibilidade
-![](../images/site-selecionado-tabela1.png)
+<img src="images/site-selecionado-tabela1.png">
 
 Ao continuar analisando o site foi identificado inconsistência em alguns links abrirem arquivos PDF em vez de páginas online sem qualquer identificação ao usuário, como pode ser identificado na figura (2) em que os links Organograma, Regimento e Mapa estratégico direcionam a um arquivo externo.
 
 Figura 2: Barra de navegação expandida
 
-![](../images/site-selecionado-figura2.png)
+<img src="images/site-selecionado-figura2.png">
 
 Tabela 2: Formulário para Avaliação Heurística - Consistência e padrões
-![](../images/site-selecionado-tabela2.png)
+<img src="images/site-selecionado-tabela2.png">
 
 A última heurística de Nielsen que apresenta falhas no website é relacionada à prevenção de erros, o primeiro item a ser analisado é a caixa de pesquisa que possui uma imagem não clicável de pesquisa ao lado do campo de texto.
 
 Figura 3 - Caixa de pesquisa
 
-![](../images/site-selecionado-figura3.png)
+<img src="images/site-selecionado-figura3.png">
 
 Tabela 3: Formulário para Avaliação Heurística - Prevenção de erros
-![](../images/site-selecionado-tabela3.png)
+<img src="images/site-selecionado-tabela3.png">
 
 Para finalizar, a disposição do botão do GDF pode confundir usuários não acostumados com o site por levar o usuário à página inicial do Governo do Distrito Federal e não para o início do site da SEMOB. É possível conferir a disposição do link na figura (1).
 
 Tabela 4: Formulário para Avaliação Heurística - Prevenção de erros
-![](../images/site-selecionado-tabela4.png)
+<img src="images/site-selecionado-tabela4.png">
 
 ## 3. CONSIDERAÇÕES FINAIS
 Temos que, no geral, o website da Secretaria de Transporte e Mobilidade proporciona ao usuário uma navegação satisfatória, porém ajustes são necessários para que usuários com falta de familiaridade com o sistema consigam utilizá-lo com menores frustrações.
