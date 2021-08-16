@@ -1,3 +1,8 @@
+### Histórico de Versão
+Data | Versão | Descrição | Autor(es)
+ -- | -- | -- | -- 
+ 15.08.2021 | 0.1 | Criação do documento | Brenno Oliveira 
+
 <img src="images/semob_logo.png">
 
 
