@@ -4,4 +4,5 @@
     - [Ferramentas](pages/ferramentas.md)
 	- [Site Selecionado](pages/siteSelecionado.md)
 - [Processo de design](pages/ProcessoDesign.md)
+- [Entregas](pages/entregas)
 
