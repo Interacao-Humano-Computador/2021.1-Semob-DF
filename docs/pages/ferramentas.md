@@ -1,3 +1,10 @@
+## Histórico de versão
+Data | Versão | Descrição | Autor(es)
+---|---|---|---
+15/08/2021 | 0.1 | Abertura do documento | Eliás Yousef
+
+<br>
+
 # Ferramentas
 Esta seção tem por finalidade apresentar as ferramentas utilizadas pela equipe para desenvolver o projeto.
 
