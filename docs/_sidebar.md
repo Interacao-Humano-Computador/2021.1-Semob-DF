@@ -5,5 +5,7 @@
 	- [Site Selecionado](pages/siteSelecionado.md)
 	- [Cronograma](pages/cronograma.md)
 - [Processo de design](pages/ProcessoDesign.md)
+- [Análise de tarefas](#)
+	- [Análise hierárquica de tarefas](pages/analiseDeTarefa.md)
 - [Entregas](pages/entregas)
 
