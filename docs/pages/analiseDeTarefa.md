@@ -17,11 +17,19 @@ Uma análise de tarefa é realizada para que se saiba a respeito do trabalho dos
 
 ## 2. Nomenclaturas utilizadas
 Este modelo (CTT) possue 8 possíveis interações entre as tarefas, são elas:
-- Ativação (T1 >> T2): a segunda tarefa (T2) só pode iniciar se a primeira (T1) terminar.
-- Ativação com passagem de informação (T1 [] >> T2): a segunda tarefa só pode ser iniciada após a primeira terminar, e as informações geradas em T1 deve ser passadas para T2.
-- Escolhas (T1 [] T2): apenas uma será selecionada, e a restante será desativada.
-- Tarefas concorrentes (T1 ||| T2): as tarefas podem ser realizadas em qualquer ordem ou ao mesmo tempo.
-- Tarefas concorrentes e comunicantes (T1 |[]| T2): Além de poderem ser realizadas em qualquer ordem e ao mesmo tempo, podem trocar informações entre si.
-- Tarefas independentes (T1 |= |T2): realizadas em qualquer ordem, mas apenas uma por vez.
-- Desativação (T1 [> T2): T1 é completamente interrompida por T2.
-- Suspensão/retomada (T1 |> T2): T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 finalizar.
+- **Ativação (T1 >> T2):** a segunda tarefa (T2) só pode iniciar se a primeira (T1) terminar.
+- **Ativação com passagem de informação (T1 [] >> T2):** a segunda tarefa só pode ser iniciada após a primeira terminar, e as informações geradas em T1 deve ser passadas para T2.
+- **Escolhas (T1 [] T2):** apenas uma será selecionada, e a restante será desativada.
+- **Tarefas concorrentes (T1 ||| T2):** as tarefas podem ser realizadas em qualquer ordem ou ao mesmo tempo.
+- **Tarefas concorrentes e comunicantes (T1 |[]| T2):** Além de poderem ser realizadas em qualquer ordem e ao mesmo tempo, podem trocar informações entre si.
+- **Tarefas independentes (T1 |= |T2):** realizadas em qualquer ordem, mas apenas uma por vez.
+- **Desativação (T1 [> T2):** T1 é completamente interrompida por T2.
+- **Suspensão/retomada (T1 |> T2):** T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 finalizar.
+
+## 3. Resultados
+### 3.1 Acesso a notícias
+
+
+
+## 4. Referências bibliográficas
+[1]Barbosa, S. D. J.; Silva, B. S. da. **Interação Humano-Computador e Experiência do usuário.** Rio de Janeiro: Elsevier, 2010.
