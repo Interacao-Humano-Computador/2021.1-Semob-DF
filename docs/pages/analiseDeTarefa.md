@@ -27,7 +27,13 @@ Este modelo (CTT) possue 8 possíveis interações entre as tarefas, são elas:
 - **Suspensão/retomada (T1 |> T2):** T1 pode ser interrompida por T2 e é retomada do ponto em que parou assim que T2 finalizar.
 
 ## 3. Resultados
-### 3.1 Acesso a notícias
+### 3.1 Pesquisa por linhas de transporte
+
+<img width="605px" height="620px" src="images/tarefa_4.png">
+
+### 3.2 Pesquisa de pontos de referencia
+
+<img width="525px" height="686px" src="images/Tarefa_5.png">
 
 
 
