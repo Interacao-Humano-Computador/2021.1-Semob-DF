@@ -2,6 +2,8 @@
 Data | Versão | Descrição | Autor(es)
  -- | -- | -- | -- 
  27.08.2021 | 0.1 | Criação do documento | Lívia Rodrigues
+ 27.08.2021 | 0.2 | Adição da referência | Lívia Rodrigues
+
 
 ## 1.Introdução
 
@@ -26,3 +28,11 @@ Obtivemos X respostas e os seguintes gráficos:
 
 
 ## 3. Conclusão
+
+
+
+
+
+## Referências Bibliográficas
+
+Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
