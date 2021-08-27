@@ -28,13 +28,16 @@ Este modelo (CTT) possue 8 possíveis interações entre as tarefas, são elas:
 
 ## 3. Resultados
 ### 3.1 Pesquisa por linhas de transporte
-
 <img width="605px" height="620px" src="images/tarefa_4.png">
 
 ### 3.2 Pesquisa de pontos de referencia
-
 <img width="525px" height="686px" src="images/Tarefa_5.png">
 
+### 3.3 Acesso ao SEI
+<img width="505px" height="455px" src="images/Modelo_CTT2.png">
+
+### 3.4 Consultar leis
+<img width="445px" height="575px" src="images/T3.png">
 
 
 ## 4. Referências bibliográficas
