@@ -1,3 +1,4 @@
 - [Home](README.md)
 - [Planejamento](pages/planejamento.md)
 - [Processo de design](pages/ProcessoDesign.md)
+- [Personas](pages/personas.md)
