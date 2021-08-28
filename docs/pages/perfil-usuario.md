@@ -23,28 +23,28 @@ Foi desenvolvido um formulário com as seguintes perguntas:
  * De 1 a 5, sendo 1 muito fácil e 5 muito difícil, qual a dificuldade que você teve ao utilizar o site da SEMOB pela primeira vez?
  * Você já navegou em algum site semelhante?
  * Com que frequência você usa o SEMOB?
- * Você tem alguma sugestão de melhora do site SIMOB?
+ * Você tem alguma sugestão de melhora do site SEMOB?
 
 # 2.1 Respostas
 Obtivemos 34 respostas e os seguintes gráficos:
 
-<img width="600px" height="371px" src="imagens/../../images/graficos/contatoSEMOB.png">
+<img width="600px" height="371px" src="images/graficos/contatoSEMOB.png">
 
-<img width="600px" height="371px" src="images/../../images/graficos/idadeParticipantes.png">
+<img width="600px" height="371px" src="images/graficos/idadeParticipantes.png">
 
-<img width="600px" height="371px" src="images/../../images/graficos/sexoFeminoMasculinoParticipantes.png">
+<img width="600px" height="371px" src="images/graficos/sexoFeminoMasculinoParticipantes.png">
 
-<img width="600px" height="371px" src="images/../../images/graficos/facilidadeUsoSites.png">
+<img width="600px" height="371px" src="images/graficos/facilidadeUsoSites.png">
 
-<img width="600px" height="371px" src="images/../../images/graficos/transportePublico_.png">
+<img width="600px" height="371px" src="images/graficos/transportePublico_.png">
 
-<img width="600px" height="371px" src="images/../../images/graficos/taxi_transporteAplicativos.png">
+<img width="600px" height="371px" src="images/graficos/taxi_transporteAplicativos.png">
 
-<img width="600px" height="371px" src="images/../../images/graficos/dificuldadeSEMOB.png">
+<img width="600px" height="371px" src="images/graficos/dificuldadeSEMOB.png">
 
-<img width="600px" height="371px" src="images/../../images/graficos/siteSemelhante.png">
+<img width="600px" height="371px" src="images/graficos/siteSemelhante.png">
 
-<img width="600px" height="371px" src="images/../../images/graficos/frequenciaSEMOB.png">
+<img width="600px" height="371px" src="images/graficos/frequenciaSEMOB.png">
 
 |**Sugestões de melhoria do Site SEMOB**|
 |---|
