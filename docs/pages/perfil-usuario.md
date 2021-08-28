@@ -3,8 +3,8 @@ Data | Versão | Descrição | Autor(es)
  -- | -- | -- | -- 
  27.08.2021 | 0.1 | Criação do documento | Lívia Rodrigues
  27.08.2021 | 0.2 | Adição da referência | Lívia Rodrigues
-  27.08.2021 | 0.3 | Adição dos gráficos e conclusão | Lais Portela
-
+27.08.2021 | 0.3 | Adição dos gráficos e conclusão | Lais Portela
+27.08.2021 | 0.3 | Mudança de nome dos gráficos | Lais Portela
 
 ## 1.Introdução
 
@@ -28,23 +28,23 @@ Foi desenvolvido um formulário com as seguintes perguntas:
 # 2.1 Respostas
 Obtivemos 34 respostas e os seguintes gráficos:
 
-<img width="600px" height="371px" src="images/graficos/Participante%20teve%20contato%20com%20o%20SEMOB_.png">
+<img width="600px" height="371px" src="imagens/../../images/graficos/contatoSEMOB.png">
 
-<img width="600px" height="371px" src="images/graficos/Idade%20dos%20participantes.png">
+<img width="600px" height="371px" src="images/../../images/graficos/idadeParticipantes.png">
 
-<img width="600px" height="371px" src="images/graficos/Sexo%20dos%20participantes.png">
+<img width="600px" height="371px" src="images/../../images/graficos/sexoFeminoMasculinoParticipantes.png">
 
-<img width="600px" height="371px" src="images/graficos/O%20participante%20tem%20facilidade%20em%20usar%20sites_.png">
+<img width="600px" height="371px" src="images/../../images/graficos/facilidadeUsoSites.png">
 
-<img width="600px" height="371px" src="images/graficos/O%20participante%20utiliza%20transporte%20público_.png">
+<img width="600px" height="371px" src="images/../../images/graficos/transportePublico_.png">
 
-<img width="600px" height="371px" src="images/graficos/O%20participante%20utiliza%20serviço%20de%20táxi_transporte%20por%20aplicativos_.png">
+<img width="600px" height="371px" src="images/../../images/graficos/taxi_transporteAplicativos.png">
 
-<img width="600px" height="371px" src="images/graficos/Dificuldade%20que%20você%20teve%20ao%20utilizar%20o%20site%20da%20SEMOB%20pela%20primeira%20vez%20de%201%20a%205.png">
+<img width="600px" height="371px" src="images/../../images/graficos/dificuldadeSEMOB.png">
 
-<img width="600px" height="371px" src="images/graficos/O%20participante%20já%20navegou%20em%20algum%20site%20semelhante_.png">
+<img width="600px" height="371px" src="images/../../images/graficos/siteSemelhante.png">
 
-<img width="600px" height="371px" src="images/../../images/graficos/Frequência%20de%20uso%20do%20SEMOB.png">
+<img width="600px" height="371px" src="images/../../images/graficos/frequenciaSEMOB.png">
 
 |**Sugestões de melhoria do Site SEMOB**|
 |---|
