@@ -7,5 +7,6 @@
 - [Processo de Design](pages/ProcessoDesign.md)
 - [Análise de Tarefas](#)
 	- [Árvores de Tarefas Concorrentes](pages/analiseDeTarefa.md)
+- [Perfil de Usuário](pages/perfil-usuario.md)
 - [Entregas](pages/entregas)
 
