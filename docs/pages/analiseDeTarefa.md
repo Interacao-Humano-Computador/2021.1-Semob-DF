@@ -2,9 +2,9 @@
 
 ## Versionamento
 
-Data | Versão | Descrição | Autor(es)
----|---|---|---
-26/08/2021 | 1.0 | Criação do documento | Brenno e Eliás
+Data | Versão | Descrição | Autor(es) | Revisado por
+---|---|---|---|---
+26/08/2021 | 1.0 | Criação do documento | Brenno e Eliás | Ana Júlia
 
 ## 1. Introdução
 Uma análise de tarefa é realizada para que se saiba a respeito do trabalho dos usuários, como realizam e porque realizam. Uma das técnicas de análise de tarefas é a **árvore de tarefas concorrentes (CTT)**, que tem por finalidade auxiliar a avaliação e o design e a avaliação de IHC. Neste modelo, existem 4 tipos de tarefas:
@@ -16,9 +16,9 @@ Uma análise de tarefa é realizada para que se saiba a respeito do trabalho dos
 <img src="images/CTT.png">
 
 ## 2. Nomenclaturas utilizadas
-Este modelo (CTT) possue 8 possíveis interações entre as tarefas, são elas:
+Este modelo (CTT) possui 8 possíveis interações entre as tarefas, são elas:
 - **Ativação (T1 >> T2):** a segunda tarefa (T2) só pode iniciar se a primeira (T1) terminar.
-- **Ativação com passagem de informação (T1 [] >> T2):** a segunda tarefa só pode ser iniciada após a primeira terminar, e as informações geradas em T1 deve ser passadas para T2.
+- **Ativação com passagem de informação (T1 [] >> T2):** a segunda tarefa só pode ser iniciada após a primeira terminar, e as informações geradas em T1 devem ser passadas para T2.
 - **Escolhas (T1 [] T2):** apenas uma será selecionada, e a restante será desativada.
 - **Tarefas concorrentes (T1 ||| T2):** as tarefas podem ser realizadas em qualquer ordem ou ao mesmo tempo.
 - **Tarefas concorrentes e comunicantes (T1 |[]| T2):** Além de poderem ser realizadas em qualquer ordem e ao mesmo tempo, podem trocar informações entre si.
