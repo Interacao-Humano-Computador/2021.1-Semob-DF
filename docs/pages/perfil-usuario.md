@@ -1,10 +1,10 @@
 ### Histórico de Versão
-Data | Versão | Descrição | Autor(es)
- -- | -- | -- | -- 
- 27.08.2021 | 0.1 | Criação do documento | Lívia Rodrigues
- 27.08.2021 | 0.2 | Adição da referência | Lívia Rodrigues
-27.08.2021 | 0.3 | Adição dos gráficos e conclusão | Lais Portela
-27.08.2021 | 0.3 | Mudança de nome dos gráficos | Lais Portela
+Data | Versão | Descrição | Autor(es) | Revisado por
+ -- | -- | -- | -- | --
+ 27.08.2021 | 0.1 | Criação do documento | Lívia Rodrigues |
+ 27.08.2021 | 0.2 | Adição da referência | Lívia Rodrigues |
+27.08.2021 | 0.3 | Adição dos gráficos e conclusão | Lais Portela |
+27.08.2021 | 0.3 | Mudança de nome dos gráficos | Lais Portela | Ana Júlia
 
 ## 1.Introdução
 
@@ -58,7 +58,7 @@ Entre as sugestões, dois participantes informaram que não tem sugestões por n
 
 A maioria dos entrevistados são jovens entre 18 e 25 anos, e boa parte já teve contato com o site da SEMOB. Os entrevistados em sua maioria são do perfil masculino e tem facilidade no uso geral de sites.
 A maioria dos entrevistados utilizam transporte público e também transporte privado.
-Além disso as pessoas consideram que é o grau de dificuldade em usar o SEMOB é mediano e eles navegam muito em sites como esse.
+Além disso as pessoas consideram que o grau de dificuldade em usar o SEMOB é mediano e eles navegam muito em sites como esse.
 Metade das pessoas utilizam o site de vez em quando.
 
 Interpretando esses gráficos é visível que a maioria utiliza transporte coletivo, mas não usa o site para se informar sobre o meio. Como o usuário-perfil do site é composto pelo público jovem, o grau de dificuldade não é tão grande, mas mesmo assim é incomodo ao usuário. É possível imaginar que outros usuários que não tem facilidade em usar sites tenham maiores problemas.
