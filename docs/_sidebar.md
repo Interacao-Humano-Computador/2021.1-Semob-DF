@@ -5,5 +5,6 @@
 	- [Site Selecionado](pages/siteSelecionado.md)
 	- [Cronograma](pages/cronograma.md)
 - [Processo de design](pages/ProcessoDesign.md)
+- [Perfil de Usuário](pages/perfil-usuario.md)
 - [Entregas](pages/entregas)
 
