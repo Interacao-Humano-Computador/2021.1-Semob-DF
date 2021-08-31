@@ -1,4 +1,8 @@
-# Personas e Anti Personas
+Data | Versão | Descrição | Autor(es) | Revisado por
+ -- | -- | -- | -- | --
+ 31.08.2021 | 0.1 | Criação do documento | Arthur e Ana Júlia | Brenno
+
+## Personas e Anti Personas
 • Personas: São personagens não reais , apenas um modelo de determinadas pessoas, para descrever seus comportamentos.
 <br>
 • Anti personas : São personas que não são o foco do produto. Representam o oposto das personas estabelecidadas do produto.
@@ -28,3 +32,6 @@
 </div>
 
 </div>
+
+## Referências bibliográficas
+[1]Barbosa, S. D. J.; Silva, B. S. da. **Interação Humano-Computador e Experiência do usuário.** Rio de Janeiro: Elsevier, 2010.
