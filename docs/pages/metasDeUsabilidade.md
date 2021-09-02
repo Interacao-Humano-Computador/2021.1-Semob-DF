@@ -4,7 +4,7 @@
 
 Data | Versão | Descrição | Autor(es) | Revisado por
 ---|---|---|---|---
-02/09/2021 | 1.0 | Criação do documento | Brenno e Lívia |  
+02.09.2021 | 0.1 | Criação do documento | Brenno e Lívia |  
 
 ## 1. Introdução
 <div style="text-align: justify">As metas de usabilidade possuem grande utilidade no que diz respeito aos objetivos de uma interface, assegurando que o usuário utilize sistemas fáceis de utilizar, eficientes e agradáveis.</div>
@@ -21,7 +21,7 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 <div style="text-align: justify"><b>Pergunta:</b> Uma vez que os usuários tiverem aprendido como utilizar um sistema para realizar suas tarefas, conseguirão manter um alto nível de produtividade? (ROGERS; SHARP; PREECE, 2005)</div>
 <div style="text-align: justify"><b>Aplicação ao site selecionado:</b> O campo de pesquisa poderia utilizar a imagem de pesquisa como forma de pesquisa para usuários que preferem utilizar o mouse, o sistema do DFnoPonto poderia mostrar possíveis ônibus que o usuário pode utilizar na pesquisa por referência em vez de somente mostrar resultados se houver um ônibus que trafega diretamente do ponto de origem ao ponto de destino.</div>
 <br>
-<div style="text-align: justify"><b>Pergunta:</b> O tempo que o usuário leva para interagir com o sistema e atingir seus objetivos é considerado aceitável? (ROGERS; SHARP; PREECE, 2005)</div>
+<div style="text-align: justify"><b>Pergunta:</b> O tempo que o usuário leva para interagir com o sistema e atingir seus objetivos é considerado aceitável?</div>
 <div style="text-align: justify"><b>Aplicação ao site selecionado:</b> Essa questão varia de acordo com a facilidade de cada usuário com a navegação em sites, existe uma porcentagem que têm mais facilidade (maior) e outra que têm mais dificuldade.</div>
 <br>
 <div style="text-align: justify"><b>Pergunta:</b> A interface facilita a navegação do usuário?</div>
