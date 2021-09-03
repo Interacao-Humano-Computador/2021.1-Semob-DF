@@ -22,19 +22,23 @@ O governo do Distrito Federal em 21 de Stembro 2015, elaborou o guia de estilo q
 ### 3.1 Tipografia
 A tipografia é fundamental para a consolidação de qualquer identidade visual, e sendo assim, uma família tipográfica é indispensável para a normatização dos padrões textuais.
 A seguir, as fontes padronizadas pelo GDF:
-<img src="guia-de-estilo/guia-de-estilo-gdf/Tipografia.svg"/>
-
+<img src="images/guia-de-estilo/guia-de-estilo-gdf/Tipografia.svg">
 
 ### 3.2 Cores
 O sites do GDF se baseiam em uma paleta de 6 cores e suas variações para maior e menor saturação. As cores são: 
 Verde, amrelo, azul, preto, cinza, Ciano Azinhavre
-<img src="images/guia-de-estilo-gdf/Paleta.svg"/>
+<img src="images/guia-de-estilo/guia-de-estilo-gdf/Cores-gdf.svg">
 
-<img src="/images/guia-de-estilo/Paleta.svg" />
-
-
-
-## Resultados da análise
+### 3.3 Layout
+Layout é a forma como os elementos (imagens, textos, gráficos...) estão organizados na tela. O padrão divulgado pelo GDF é guiado por 12 colunas, espaçadas entre si por 30px, conforme mostrado na figura abaixo:
+<img width="800px" src="images/guia-de-estilo/guia-de-estilo-gdf/layout.svg">
 
 
+## 4. Avaliação da interface da SEMOB
+Após a compreensão da identidade visual disponibilizada pelo Governo de Brasília, foi avaliado a situação atual do site da Secretaria de Transporte e Mobilidade (SEMOB). Quando encontrado alguma desarmonia relativa ao guia de estilo do GDF, é sugerido uma mudança que tem por finalidade a melhoria na usabilidade da interface.
 
+### 4.1 Tipografia
+
+### 4.2 Cores
+
+### 4.3 Layout
