@@ -2,20 +2,23 @@
 Data | Versão | Descrição | Autor(es) | Revisado por
  -- | -- | -- | -- | --
  03/09/2021 | 0.1 | Criação do documento | Ana Júlia | Laís Portela
- 03/09/2021 | 0.2 | Criação dos subtopicos e explicação da expectativa do usuário| Laís Portela |
+ 03/09/2021 | 0.2 | Criação dos subtopicos e explicação da expectativa do usuário| Laís Portela | Ana Júlia
  03/09/2021 | 0.3 | Realização dos subtópicos: Simplicidade nas estruturas das tarefas e Equilíbrio entre controle e liberdade do usuário| Ana Júlia | Laís Portela
-03/09/2021 | 0.4 | Realização dos subtópicos: Consistência e Padronização, Promovendo a Eficiência do Usuário e Antecipação. Introdução e Conclusão| Laís Portela |
-## Introdução
-Foram feitos princípios e diretrizes que nos mostram como projetar um sistema que atenda às necessidades do usuário, que o usuário possa aprender, utilizar os sistemas de modo rápido e prático. Norman destaca a necessidade de projetar o sistema utilizando o modelo conceitual, que deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo.
+03/09/2021 | 0.4 | Realização dos subtópicos: Consistência e Padronização, Promovendo a Eficiência do Usuário e Antecipação. Introdução e Conclusão| Laís Portela | Ana Júlia
+03/09/2021 | 0.5 | Realização dos subtópicos: Visibilidade e Reconhecimento, Conteúdo Relevante Expressação Adequada e Projeto para Erros. Referências| Ana Júlia |
 
-O designer auxilia a que o usuário tenha a melhor experiência possível, então seguindo esses princípios e diretrizes o designer poderá ser projetado de modo a ter um sistema útil e prático a quem o utilizar.
+## Introdução
+Foram feitos princípios e diretrizes que nos mostram como projetar um sistema que atenda às necessidades do usuário, para que ele possa aprender, e utilizar os sistemas de modo rápido e prático. Norman destaca a necessidade de projetar o sistema utilizando o modelo conceitual, que deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo.
+
+O designer auxilia o usuário a ter a melhor experiência possível, então seguindo esses princípios e diretrizes o design poderá ser projetado de modo a ter um sistema útil e prático a quem o utilizar.
 
 ## Principios e Diretrizes Gerais
 
 ### Correspondências com a expectativa do usuário
 Em relação ao produto o usuário tem uma expectativa, que pode ser boa ou ruim. 
 
-Em sistemas digitais a ordem das ações do usuário precisa ser o mais parecido com o do mundo físico.Como no exemplo da imagem abaixo, uma pessoa ao ir numa loja comprar uma roupa, por exemplo, ela não se identifica com os seus dados pessoais antes de poder escolher o produto. Assim tem que ser ao comprar a roupa em um site também, primeiro você olha o catálogo e após a escolha que faz o login para finalizar a compra. Segundo Norman isso é **explorar os mapeamentos naturais.**  
+Em sistemas digitais a ordem das ações do usuário precisa ser o mais parecido com o do mundo físico.Como no exemplo da imagem abaixo, uma pessoa ao ir numa loja comprar uma roupa, por exemplo, ela não se identifica com os seus dados pessoais antes de poder escolher o produto. Assim tem que ser ao comprar a roupa em um site também, primeiro você olha o catálogo e após a escolha que faz o login para finalizar a compra. Segundo Norman isso é **explorar os mapeamentos naturais.**
+
 <img width="487px" height="156px" src="images/sequenciaIdentificacaoUsuario.png">
 
 Um feedbaack é ideal para informar o usuário que a ação dele foi concluída.
@@ -58,12 +61,22 @@ Prever o que o usuário quer e precisa, por exemplo, ao colar uma imagem no edit
 A antecipação do software é estar sempre preparado a atender não somente ao usuário quer nesse momento, mas no que ele pode vir a querer. Para fazer isso o sistema pode observar e anotar as ações frequentes do usuário, para assim, tentar antever cada passo dele.
 
 Tognazzi destaca a importância de definir de maneira cuidadosa os valores e configuração padrão(defaults). Substituições mais adequadas a situação atual, campos prés-selecionados. As pessoas aceitam essas configuraçõe pré-estabelecidas pois não entendem o que se deve fazer, ou porque assumem que o sistema já aprendeu o que o usuário quer, por isso é necessário ter cuidado ao escolher os defaults.
+
 ### Visibilidade e Reconhecimento
+
+Antes de uma ação ser executada, deve ser visível para o usuário o que é possível realizar e como as ações devem ser feitas. A interface deve estar ligada ao usuário de forma a saber quais intenções ele tem, quais ações ela deve oferecer, quais opções não oferecer. Norman afirma que o designer deve tornar as coias visíveis: abreviar os golfos de execução e avaliação.
+
+O estado do sistema deve estar sempre atualizado e facilmente perceptível, ele também deve manter o usuário informado sobre o que ocorreu ou que está ocorrendo, através do feedback. A resposta deve ser sutil, exceto em ações pouco frequentes e que acarretam grandes consequencias, nessas situações a resposta deve ser mais substancial.
+
+O usuário não deve ser responsável por fazer um mapa mental do que fez ou por onde passou no sistema. Em geral, as informações de status podem ser bem sutis.
 
 ### Contéudo Relevante e Expressão Adequada
 
+As Expressões utilizadas no sistema devem ser concisas e informativas sobre os problemas que ocorrerem, de modo a ajudar e facilitar as tarefas do usuário. Da mesma forma, os botões, menus e rótulos também devem ser claros e livres de ambiguidade, para não confuindir o usuário. Deve se ter em mente que o usuário provavelmente vai fazer exatamente aquilo que o desenvolvedor pensou que não poderia ser feito, ele vai entrar justamente na aba que tem bugs, na aba que ele não deveria acessar, por isso é de extrema importância que os textos sejam legíveis e as instruções claras.
+
 ### Projeto para Erros
 
+Como foi dito antes, dar a possibilidade de errar para o usuário deixa ele mais seguro, tira o medo e a angustia dele de utilizar o sistema. Por esse motivo, reverter as operções deve ser fácil, e realizar ações irreversíveis devem ser dificéis. Fazer o usuário perceber, reconhecer e diagnosticar onde errou, se recuperar dos erros e saber como reverte-los dá uma sensação de segurança necessária ao usuário. Ações que podem levar ao erro devem ser pouco utilizadas, assim como não se deve colocar funções muito utilizadas perto de controles perigosos ou que raramente são utilizados.
 
 ## Conclusão
 
@@ -74,3 +87,5 @@ O sistema nunca deve ser uma dor de cabeça a quem o utiliza, e manter padrões 
 Seguir estes princípios ajuda o sistema ser simples, prático e útil a quem o utiliza, o que eleva a expectativa do usuário de modo positivo.
 
 ### Referências Bibliográficas
+
+Livro: Barbosa, S.D.J.; Silva, B.S.; Silveira, M.S.; Gasparini, I.; Darin, T.; Barbosa, G.D.J. (2021) Interação Humano-Computador e Experiência do Usuário.
