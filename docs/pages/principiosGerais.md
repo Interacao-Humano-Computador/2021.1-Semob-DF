@@ -17,7 +17,7 @@ O designer auxilia o usuário a ter a melhor experiência possível, então segu
 ### Correspondências com a expectativa do usuário
 Em relação ao produto o usuário tem uma expectativa, que pode ser boa ou ruim. 
 
-Em sistemas digitais a ordem das ações do usuário precisa ser o mais parecido com o do mundo físico.Como no exemplo da imagem abaixo, uma pessoa ao ir numa loja comprar uma roupa, por exemplo, ela não se identifica com os seus dados pessoais antes de poder escolher o produto. Assim tem que ser ao comprar a roupa em um site também, primeiro você olha o catálogo e após a escolha que faz o login para finalizar a compra. Segundo Norman isso é **explorar os mapeamentos naturais.**
+Em sistemas digitais a ordem das ações do usuário precisa ser o mais parecido com o do mundo físico. Como no exemplo da imagem abaixo, uma pessoa ao ir numa loja comprar uma roupa, por exemplo, ela não se identifica com os seus dados pessoais antes de poder escolher o produto. Assim tem que ser ao comprar a roupa em um site também, primeiro você olha o catálogo e após a escolha que faz o login para finalizar a compra. Segundo Norman isso é **explorar os mapeamentos naturais.**
 
 <img width="487px" height="156px" src="images/sequenciaIdentificacaoUsuario.png">
 
@@ -70,7 +70,7 @@ O estado do sistema deve estar sempre atualizado e facilmente perceptível, ele 
 
 O usuário não deve ser responsável por fazer um mapa mental do que fez ou por onde passou no sistema. Em geral, as informações de status podem ser bem sutis.
 
-### Contéudo Relevante e Expressão Adequada
+### Conteúdo Relevante e Expressão Adequada
 
 As Expressões utilizadas no sistema devem ser concisas e informativas sobre os problemas que ocorrerem, de modo a ajudar e facilitar as tarefas do usuário. Da mesma forma, os botões, menus e rótulos também devem ser claros e livres de ambiguidade, para não confuindir o usuário. Deve se ter em mente que o usuário provavelmente vai fazer exatamente aquilo que o desenvolvedor pensou que não poderia ser feito, ele vai entrar justamente na aba que tem bugs, na aba que ele não deveria acessar, por isso é de extrema importância que os textos sejam legíveis e as instruções claras.
 
