@@ -17,8 +17,17 @@ Para isso, durante o processo de avaliação, foram levantadas algumas questões
 
 
 ## 3. Identidade Visual do Sites do GDF 
+O governo do Distrito Federal em 21 de Stembro 2015, elaborou o guia de estilo que foi utilizado no desenvolvimento dos sites públicos do DF. Desse modo, com base nesse documento, estabeleceremos
 
-O governo do Distrito Federal em 21 de Stembro 2015, elaborou o guia de estilo que foi utilizado no desenvolvimento dos sites públicos do DF. Desse modo, com base nesse documento, estabeleceremos  
+### 3.1 Tipografia
+A tipografia é fundamental para a consolidação de qualquer identidade visual, e sendo assim, uma família tipográfica é indispensável para a normatização dos padrões textuais.
+A seguir, as fontes padronizadas pelo GDF:
+<img src="guia-de-estilo/guia-de-estilo-gdf/Tipografia.svg"/>
+
+
+### 3.2 Cores
+<img src="guia-de-estilo/guia-de-estilo-gdf/Cores.svg"/>
+
 
 
 ## Resultados da análise
