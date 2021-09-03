@@ -17,21 +17,22 @@ O designer auxilia o usuário a ter a melhor experiência possível, então segu
 ### Correspondências com a expectativa do usuário
 Em relação ao produto o usuário tem uma expectativa, que pode ser boa ou ruim. 
 
-Em sistemas digitais a ordem das ações do usuário precisa ser o mais parecido com o do mundo físico. Como no exemplo da imagem abaixo, uma pessoa ao ir numa loja comprar uma roupa, por exemplo, ela não se identifica com os seus dados pessoais antes de poder escolher o produto. Assim tem que ser ao comprar a roupa em um site também, primeiro você olha o catálogo e após a escolha que faz o login para finalizar a compra. Segundo Norman isso é **explorar os mapeamentos naturais.**
+Em sistemas digitais a ordem das ações do usuário precisa ser o mais parecido com o do mundo físico. Como no exemplo da imagem abaixo, uma pessoa ao ir a uma loja comprar uma roupa, por exemplo, ela não se identifica com os seus dados pessoais antes de poder escolher o produto. Assim tem que ser ao comprar a roupa em um site também, primeiro você olha o catálogo e após a escolha que faz o login para finalizar a compra. Segundo Norman isso é **explorar os mapeamentos naturais. **
 
-<img width="487px" height="156px" src="images/sequenciaIdentificacaoUsuario.png">
+<img width="487px" height="156px" src="images/">
 
-Um feedbaack é ideal para informar o usuário que a ação dele foi concluída.
+Um feedback é ideal para informar o usuário que a ação dele foi concluída.
 
-Além de se preocupar com a parte estrutural é necessário, também preocupar-se com o aspecto do designer, utilizando palavras familiares. Também é recomendado o uso de metaforas de forma cuidadosa, segundo Tognazzini, para permitir que o usuário identifiquem rapidamente sutilizas do modelo conceitual subjacente ao sistema.
+Além de se preocupar com a parte estrutural é necessário, também preocupar-se com o aspecto do designer, utilizando palavras familiares. Também é recomendado o uso de metáforas de forma cuidadosa, segundo Tognazzini, para permitir que o usuário identifique rapidamente sutilezas do modelo conceitual subjacente ao sistema.
+
 
 ### Simplicidade nas Estruturas das Tarefas
-De acordo com Norman, tarefas desnecessariamente complexas podem ser reestruturadas de modo a facilitar o entendimento da mesma. Ele recomenda simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que eleas requerem.
+De acordo com Norman, tarefas desnecessariamente complexas podem ser reestruturadas de modo a facilitar o entendimento dela. Ele recomenda simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que eles requerem.
 
 ### Equilíbrio entre Controle e Liberdade do Usuário
-É sempre bom lembrar que o usuário está no controle, a ele "pertecem" o computador, a interface e o ambiente de trabalho. Mas isso requer um equilíbrio, pois dando muita liberdade ao usuário pode fazer com que ele se sinta perdido ou angustiado com o excesso de opções. Norman, recomenda explorar o poder das restrições, tanto naturais como artificias.
+É sempre bom lembrar que o usuário está no controle, a ele "pertence" o computador, a interface e o ambiente de trabalho. Mas isso requer um equilíbrio, pois dando muita liberdade ao usuário pode fazer com que ele se sinta perdido ou angustiado com o excesso de opções. Norman, recomenda explorar o poder das restrições, tanto naturais como artificias.
 
-O software deve ter "jogo de cintura", ser maleável, permitir que o usuário saia a qualquer momento ou cancele determinada ação porém, a opção mais fácil deve ser se manter no caminho. Ter a possibilidade de errar diminui a ansidade e o medo de errar do usuário, pois eles sabem que os erros podem ser desfeitos.
+O software deve ter "jogo de cintura", ser maleável, permitir que o usuário saia a qualquer momento ou cancele determinada ação, porém, a opção mais fácil deve ser se manter no caminho. Ter a possibilidade de errar diminui a ansiedade e o medo de errar do usuário, pois eles sabem que os erros podem ser desfeitos.
 
 Entretanto, usar muitas caixas de diálogos para confirmação aumenta o tempo de realização das tarefas e pode fazer com que a comunicação seja ineficiente, pois muitos usuários acabam ficando sem paciência e só pulam os diálogos sem ler antes. Por isso a importância dos valores padrões (default), assim não precisamos incomodar o usuário quando não for necessário.
 
@@ -56,27 +57,27 @@ O sistema também deve manter-se informado sobre o usuário, permitindo, por exe
 Atalhos e aceleradores devem ser fornecidos ao usuário para possibilitar um trabalho mais ágil. Por fim, também é importante salvar as configurações selecionadas frequentemente pelo usuário, assim ele não perde tempo em fazer as mesmas ações novamente.
 
 ### Antecipação
-Prever o que o usuário quer e precisa, por exemplo, ao colar uma imagem no editor de documentos, seria interessante ao sistema já mostrar opções de edição disponíveis, como cortar, editar saturação, entre outros. Assim o software toma a iniciativa e fornece informações úteis ao usuári.
+Prever o que o usuário quer e precisa, por exemplo, ao colar uma imagem no editor de documentos, seria interessante ao sistema já mostrar opções de edição disponíveis, como cortar, editar saturação, entre outros. Assim o software toma a iniciativa e fornece informações úteis ao usuário.
 
 A antecipação do software é estar sempre preparado a atender não somente ao usuário quer nesse momento, mas no que ele pode vir a querer. Para fazer isso o sistema pode observar e anotar as ações frequentes do usuário, para assim, tentar antever cada passo dele.
 
-Tognazzi destaca a importância de definir de maneira cuidadosa os valores e configuração padrão(defaults). Substituições mais adequadas a situação atual, campos prés-selecionados. As pessoas aceitam essas configuraçõe pré-estabelecidas pois não entendem o que se deve fazer, ou porque assumem que o sistema já aprendeu o que o usuário quer, por isso é necessário ter cuidado ao escolher os defaults.
+Tognazzi destaca a importância de definir de maneira cuidadosa os valores e configuração padrão(defaults). Substituições mais adequadas a situação atual, campos pré-selecionados. As pessoas aceitam essas configurações pré-estabelecidas pois não entendem o que se deve fazer, ou porque assumem que o sistema já aprendeu o que o usuário quer, por isso é necessário ter cuidado ao escolher os defaults.
 
 ### Visibilidade e Reconhecimento
 
-Antes de uma ação ser executada, deve ser visível para o usuário o que é possível realizar e como as ações devem ser feitas. A interface deve estar ligada ao usuário de forma a saber quais intenções ele tem, quais ações ela deve oferecer, quais opções não oferecer. Norman afirma que o designer deve tornar as coias visíveis: abreviar os golfos de execução e avaliação.
+Antes de uma ação ser executada, deve ser visível para o usuário o que é possível realizar e como as ações devem ser feitas. A interface deve estar ligada ao usuário de forma a saber quais intenções ele tem, quais ações ela deve oferecer, quais opções não oferecer. Norman afirma que o designer deve tornar as coisas visíveis: abreviar os golfos de execução e avaliação.
 
-O estado do sistema deve estar sempre atualizado e facilmente perceptível, ele também deve manter o usuário informado sobre o que ocorreu ou que está ocorrendo, através do feedback. A resposta deve ser sutil, exceto em ações pouco frequentes e que acarretam grandes consequencias, nessas situações a resposta deve ser mais substancial.
+O estado do sistema deve estar sempre atualizado e facilmente perceptível, ele também deve manter o usuário informado sobre o que ocorreu ou que está ocorrendo, através do feedback. A resposta deve ser sutil, exceto em ações pouco frequentes e que acarretam grandes consequências, nessas situações a resposta deve ser mais substancial.
 
 O usuário não deve ser responsável por fazer um mapa mental do que fez ou por onde passou no sistema. Em geral, as informações de status podem ser bem sutis.
 
 ### Conteúdo Relevante e Expressão Adequada
 
-As Expressões utilizadas no sistema devem ser concisas e informativas sobre os problemas que ocorrerem, de modo a ajudar e facilitar as tarefas do usuário. Da mesma forma, os botões, menus e rótulos também devem ser claros e livres de ambiguidade, para não confuindir o usuário. Deve se ter em mente que o usuário provavelmente vai fazer exatamente aquilo que o desenvolvedor pensou que não poderia ser feito, ele vai entrar justamente na aba que tem bugs, na aba que ele não deveria acessar, por isso é de extrema importância que os textos sejam legíveis e as instruções claras.
+As Expressões utilizadas no sistema devem ser concisas e informativas sobre os problemas que ocorrerem, de modo a ajudar e facilitar as tarefas do usuário. Da mesma forma, os botões, menus e rótulos também devem ser claros e livres de ambiguidade, para não confundir o usuário. Deve se ter em mente que o usuário provavelmente vai fazer exatamente aquilo que o desenvolvedor pensou que não poderia ser feito, ele vai entrar justamente na aba que tem bugs, na aba que ele não deveria acessar, por isso é de extrema importância que os textos sejam legíveis e as instruções claras.
 
 ### Projeto para Erros
 
-Como foi dito antes, dar a possibilidade de errar para o usuário deixa ele mais seguro, tira o medo e a angustia dele de utilizar o sistema. Por esse motivo, reverter as operções deve ser fácil, e realizar ações irreversíveis devem ser dificéis. Fazer o usuário perceber, reconhecer e diagnosticar onde errou, se recuperar dos erros e saber como reverte-los dá uma sensação de segurança necessária ao usuário. Ações que podem levar ao erro devem ser pouco utilizadas, assim como não se deve colocar funções muito utilizadas perto de controles perigosos ou que raramente são utilizados.
+Como foi dito antes, dar a possibilidade de errar para o usuário deixa ele mais seguro, tira o medo e a angústia dele de utilizar o sistema. Por esse motivo, reverter as operações deve ser fácil, e realizar ações irreversíveis devem ser difíceis. Fazer o usuário perceber, reconhecer e diagnosticar onde errou, se recuperar dos erros e saber como revertê-los dá uma sensação de segurança necessária ao usuário. Ações que podem levar ao erro devem ser pouco utilizadas, assim como não se deve colocar funções muito utilizadas perto de controles perigosos ou que raramente são utilizados.
 
 ## Conclusão
 
