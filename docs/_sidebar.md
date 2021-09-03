@@ -9,5 +9,6 @@
 	- [Perfil de Usuário](pages/perfil-usuario.md)
 	- [Personas](pages/personas.md)
 	- [Árvore de Tarefas Concorrentes](pages/analiseDeTarefa.md)
+- [Guia de Estilo](pages/guia_de_estilo.md)
 - [Entregas](pages/entregas)
 

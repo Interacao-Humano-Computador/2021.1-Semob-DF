@@ -26,7 +26,11 @@ A seguir, as fontes padronizadas pelo GDF:
 
 
 ### 3.2 Cores
-<img src="guia-de-estilo/guia-de-estilo-gdf/Cores.svg"/>
+O sites do GDF se baseiam em uma paleta de 6 cores e suas variações para maior e menor saturação. As cores são: 
+Verde, amrelo, azul, preto, cinza, Ciano Azinhavre
+<img src="images/guia-de-estilo-gdf/Paleta.svg"/>
+
+<img src="/images/guia-de-estilo/Paleta.svg" />
 
 
 
