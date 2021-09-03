@@ -2,7 +2,8 @@
 Data | Versão | Descrição | Autor(es) | Revisado por
  -- | -- | -- | -- | --
  03/09/2021 | 0.1 | Criação do documento | Ana Júlia |
-
+ 03/09/2021 | 0.2 | Criação dos subtopicos e explicação da expectativa do usuário| Laís Portela |
+ 03/09/2021 | 0.3 | Realização dos subtópicos: Simplicidade nas estruturas das tarefas e Equilíbrio entre controle e liberdade do usuário| Ana Júlia |
 ## Introdução
 
 ## Principios e Diretrizes Gerais
@@ -17,7 +18,14 @@ Um feedbaack é ideal para informar o usuário que a ação dele foi concluída.
 
 Além de se preocupar com a parte estrutural é necessário, também preocupar-se com o aspecto do designer, utilizando palavras familiares. Também é recomendado o uso de metaforas de forma cuidadosa, segundo Tognazzini, para permitir que o usuário identifiquem rapidamente sutilizas do modelo conceitual subjacente ao sistema.
 
+### Simplicidade nas Estruturas das Tarefas
+De acordo com Norman, tarefas desnecessariamente complexas podem ser reestruturadas de modo a facilitar o entendimento da mesma. Ele recomenda simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que eleas requerem.
+
 ### Equilíbrio entre Controle e Liberdade do Usuário
+É sempre bom lembrar que o usuário está no controle, a ele "pertecem" o computador, a interface e o ambiente de trabalho. Mas isso requer um equilíbrio, pois dando muita liberdade ao usuário pode fazer com que ele se sinta perdido ou angustiado com o excesso de opções. Norman, recomenda explorar o poder das restrições, tanto naturais como artificias.
+O software deve ter "jogo de cintura", ser maleável, permitir que o usuário saia a qualquer momento ou cancele determinada ação porém, a opção mais fácil deve ser se manter no caminho. Ter a possibilidade de errar diminui a ansidade e o medo de errar do usuário, pois eles sabem que os erros podem ser desfeitos.
+Entretanto, usar muitas caixas de diálogos para confirmação aumenta o tempo de realização das tarefas e pode fazer com que a comunicação seja ineficiente, pois muitos usuários acabam ficando sem paciência e só pulam os diálogos sem ler antes. Por isso a importância dos valores padrões (default), assim não precisamos incomodar o usuário quando não for necessário.
+Devemos sempre manter um equilíbrio entre o que é oferecido ao usuário e a sua capacidade de entender as consequências da combinação de parâmetros escolhida.
 
 ### Consistência e Padronização
 
