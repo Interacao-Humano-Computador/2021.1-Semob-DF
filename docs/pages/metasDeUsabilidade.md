@@ -4,7 +4,7 @@
 
 Data | Versão | Descrição | Autor(es) | Revisado por
 ---|---|---|---|---
-02.09.2021 | 0.1 | Criação do documento | Brenno e Lívia |  
+02.09.2021 | 0.1 | Criação do documento | Brenno e Lívia | Eliás Yousef
 
 ## 1. Introdução
 <div style="text-align: justify">As metas de usabilidade possuem grande utilidade no que diz respeito aos objetivos de uma interface, assegurando que o usuário utilize sistemas fáceis de utilizar, eficientes e agradáveis.</div>
