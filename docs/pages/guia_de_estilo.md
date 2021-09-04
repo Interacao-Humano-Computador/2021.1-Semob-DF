@@ -27,20 +27,32 @@ O governo do Distrito Federal em 21 de Stembro 2015, elaborou o guia de estilo q
 ### 3.1 Tipografia
 A tipografia é fundamental para a consolidação de qualquer identidade visual, e sendo assim, uma família tipográfica é indispensável para a normatização dos padrões textuais.
 A seguir, as fontes padronizadas pelo GDF:
-
-<img src="images/guia-de-estilo/gdf/Tipografia.svg">
+<div>
+    <img src="images/guia-de-estilo/gdf/Tipografia.svg">
+    <footer style="display:flex; justify-content: center;">
+        <small>Imagem 1: Tipografia do Semob</small>
+    </footer>
+</div>
 
 ### 3.2 Cores
 O sites do GDF se baseiam em uma paleta de 6 cores e suas variações para maior e menor saturação. As cores são: 
 Verde, amrelo, azul, preto, cinza, Ciano Azinhavre
-
-<img src="images/guia-de-estilo/gdf/Cores-gdf.svg">
+<div>
+    <img src="images/guia-de-estilo/gdf/Cores-gdf.svg">
+    <footer style="display:flex; justify-content: center;">
+        <small>Imagem 2: Cores do Semob</small>
+    </footer>
+</div>
 
 ### 3.3 Layout
 Layout é a forma como os elementos (imagens, textos, gráficos...) estão organizados na tela. O padrão divulgado pelo GDF é guiado por 12 colunas, espaçadas entre si por 30px, conforme mostrado na figura abaixo:
 
-<img width="800px" src="images/guia-de-estilo/gdf/layout.svg">
-
+<div>
+    <img width="800px" src="images/guia-de-estilo/gdf/layout.svg">
+    <footer style="display:flex; justify-content: center;">
+        <small>Imagem 3: Layout do Semob</small>
+    </footer>
+</div>
 
 ## 4. Avaliação da interface da SEMOB
 Após a compreensão da identidade visual disponibilizada pelo Governo de Brasília, foi avaliado a situação atual do site da Secretaria de Transporte e Mobilidade (SEMOB). Quando encontrado alguma desarmonia relativa ao guia de estilo do GDF, é sugerido uma mudança que tem por finalidade a melhoria na usabilidade da interface.
@@ -48,25 +60,38 @@ Após a compreensão da identidade visual disponibilizada pelo Governo de Brasí
 ### 4.1 Tipografia
 Analisando o site da SEMOB foram encontradas 3 fontes: Titillium, Open Sans e Montserrat. O sítio possui padronização no tamanho das fontes em seus devidos contextos.
 Na imagem abaixo, são mostrados alguns detalhes das fontes utilizadas.
-
-<img src="images/guia-de-estilo/semob/Tipografia-Semob.svg">
-
+<div>
+    <img src="images/guia-de-estilo/semob/Tipografia-Semob.svg">
+    <footer style="display:flex; justify-content: center;">
+        <small>Imagem 4</small>
+    </footer>
+</div>
 
 ### 4.2 Cores
 Foram encontradas 11 cores principais cores no site SEMOB, e elas são diferentes das definidas no padrão do GDF.
-
-<img src="images/guia-de-estilo/semob/Cores-semob.svg">
+<div>
+    <img src="images/guia-de-estilo/semob/Cores-semob.svg">
+    <footer style="display:flex; justify-content: center;">
+        <small>Imagem 5</small>
+    </footer>
+</div>
 
 Apesar da diferença, ela não é tão grande e não imputa em problemas de usabilidade, a não ser quando existe um constraste mal pensado no site, que acaba resultando em dificuldade para identificar o conteúdo da região do sítio, como é exemplo a imagem a baixo.
 
-<img width="800px" src="images/guia-de-estilo/semob/site-semob.png">
+<div>
+    <img width="800px" src="images/guia-de-estilo/semob/site-semob.png">
+    <footer style="display:flex; justify-content: center;">
+        <small>Imagem 6</small>
+    </footer>
+</div>
 
 > Conclusão
-
-
-### 4.3 Layout
-O padrão do layout da SEMOB está de acordo com as diretrizes expostas pelo GDF, e é relativamente simples se manter localizado dentro da interface.
-
-<img width="800px" src="images/guia-de-estilo/semob/grid-semob.png">
+>
+>
+>
+> ## 4.3 Cores 
+> Como mencionado no topico 4.2, as cores podem ser melhor aproveitadas, para melhorar a visualiação e a navegação. No exemplo 4.3 poderia ter sido utilizado alguma cor dentro da > > peleta que constraste com o branco de fundo. 
 
 ## Referências bibliográficas
+
+Guia de estilo GDF: https://www.df.gov.br/wp-conteudo/uploads/2018/01/guia-de-estilo.jpg 
