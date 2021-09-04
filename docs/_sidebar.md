@@ -5,9 +5,10 @@
 	- [Sites Avaliados](pages/planejamento.md)
 	- [Site Selecionado](pages/siteSelecionado.md)
 	- [Ferramentas](pages/ferramentas.md)
-- [Análise de Requisitos](#)
+- [**Análise de Requisitos**](#)
 	- [Perfil de Usuário](pages/perfil-usuario.md)
 	- [Personas](pages/personas.md)
 	- [Árvore de Tarefas Concorrentes](pages/analiseDeTarefa.md)
+	- [Metas de Usabilidade](pages/metasDeUsabilidade.md)
 - [Entregas](pages/entregas)
 
