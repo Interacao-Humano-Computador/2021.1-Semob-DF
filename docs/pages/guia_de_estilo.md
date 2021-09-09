@@ -87,10 +87,8 @@ Apesar da diferença, ela não é tão grande e não imputa em problemas de usab
 
 > Conclusão
 >
->
->
 > ## 4.3 Cores 
-> Como mencionado no topico 4.2, as cores podem ser melhor aproveitadas, para melhorar a visualiação e a navegação. No exemplo 4.3 poderia ter sido utilizado alguma cor dentro da > > peleta que constraste com o branco de fundo. 
+> Como mencionado no topico 4.2, as cores podem ser melhor aproveitadas, para melhorar a visualiação e a navegação. No exemplo 4.3 poderia ter sido utilizado alguma cor dentro da peleta que constraste com o branco de fundo. 
 
 ## Referências bibliográficas
 
