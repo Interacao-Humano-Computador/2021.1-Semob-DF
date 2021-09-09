@@ -9,6 +9,7 @@
 	- [Perfil de Usuário](pages/perfil-usuario.md)
 	- [Personas](pages/personas.md)
 	- [Árvore de Tarefas Concorrentes](pages/analiseDeTarefa.md)
+	- [Princípios Gerais](pages/principiosGerais.md)
 	- [Metas de Usabilidade](pages/metasDeUsabilidade.md)
 - [Entregas](pages/entregas)
 
