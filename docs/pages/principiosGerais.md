@@ -19,7 +19,7 @@ Em relação ao produto o usuário tem uma expectativa, que pode ser boa ou ruim
 
 Em sistemas digitais a ordem das ações do usuário precisa ser o mais parecido com o do mundo físico. Como no exemplo da imagem abaixo, uma pessoa ao ir a uma loja comprar uma roupa, por exemplo, ela não se identifica com os seus dados pessoais antes de poder escolher o produto. Assim tem que ser ao comprar a roupa em um site também, primeiro você olha o catálogo e após a escolha que faz o login para finalizar a compra. Segundo Norman isso é **explorar os mapeamentos naturais. **
 
-<img width="487px" height="156px" src="images/">
+<img width="487px" height="156px" src="images/sequenciaIdentificacaoUsuario.png">
 
 Um feedback é ideal para informar o usuário que a ação dele foi concluída.
 
