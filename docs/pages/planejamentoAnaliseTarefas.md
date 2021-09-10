@@ -16,7 +16,7 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 <div style="text-align: justify">Como preparação de nosso projeto iremos utilizar como base as tarefas de <i>Pesquisa por linhas de transporte</i>, <i>Pesquisa de pontos de referencia</i>, e <i>Consulta de leis</i> definidas na <a href="https://interacao-humano-computador.github.io/2021.1-Semob-DF/#/pages/analiseDeTarefa">Árvore de Tarefas Concorrentes</a>, além do próprio site do <a href="https://semob.df.gov.br/">SEMOB</a>.</div>
 
 #### Tarefa 1 - Pesquisa por linhas de transporte
-<div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que costuma pesquisar ônibus por locais de referência<br>
+<div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que deseja pesquisar ônibus por locais de referência<br>
 <b>Passos:</b><br>
 1. Acessar o site do SEMOB<br>
 2. Acessar link "DF no Ponto - Horários e itinerários dos ônibus"<br>
@@ -24,8 +24,8 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 4. Inserir número da linha<br>
 5. Acessar linha</div>
 
-#### Tarefa 2: Pesquisa de pontos de referencia
-<div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que costuma pesquisar por uma linha específica<br>
+#### Tarefa 2: Pesquisa de pontos de referência
+<div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que deseja pesquisar por uma linha específica<br>
 <b>Passos:</b><br>
 1. Acessar o site do SEMOB<br>
 2. Acessar link "DF no Ponto - Horários e itinerários dos ônibus"<br>
@@ -35,7 +35,7 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 6. Acessar linhas condizentes</div>
 
 #### Tarefa 3: Consultar leis
-<div style="text-align: justify"><b>Persona:</b> Pessoa que deseja consultar alguma lei<br>
+<div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que deseja consultar alguma lei<br>
 <b>Passos:</b><br>
 1. Acessar o site do SEMOB<br>
 2. Encontrar aba "Leis e Regulamentações"<br>
@@ -44,7 +44,7 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 
 ### 2.2. Coleta de Dados
 <div style="text-align: justify">O avaliador, ao desenvolver a fase da coleta de dados, deve simular os passos definidos em cada tarefa, verificando o "se" e o "por que" de um usuário navegar de forma a alcançar seu objetivo, além de utilizar as perguntas do método para auxiliar na identificação de problemas.</div><br>
-<div style="text-align: justify">Como exmplo retirado do livro <i>Interação Humano-Computador e Experiência do usuário</i> as perguntas devem ser analisadas:<br>
+<div style="text-align: justify">Como exemplo retirado do livro <i>Interação Humano-Computador e Experiência do usuário</i> as perguntas devem ser analisadas:<br>
 <b>P1:</b> <i>O usuário tentaria atingir o efeito correto? A formulação da intenção do usuário seria a esperada (pelo designer do sistema)?</i><br>
 "Um usuário tem mais chance de formular a intenção correta se: a ação faz parte da tarefa tal como concebida pelo usuário; o usuário tem experiência em utilizar o sistema avaliado ou sistemas semelhantes; ou o sistema fornece uma instrução ou solicita que o usuário realize a ação;"(BARBOSA et al., 2021)<br>
 <b>P2:</b> <i>O usuário perceberia que a ação correta está disponível?</i><br> 
@@ -59,5 +59,5 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 
 ### 2.4. Relato dos Resultados
 
-## 3. Referências bibliográficas
+## 3. Referência
 BARBOSA, Simone; SILVA, Bruno; SILVEIRA, Milene; GASPARINNI, Isabela; DARIN, Ticiane; BARBOSA, Gabriel. <b>Interação Humano-Computador e Experiência do usuário.</b>[S. l.]: Autopublicação, 2021.
