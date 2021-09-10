@@ -1,4 +1,5 @@
 - [Home](README.md)
+- [Entregas](pages/entregas)
 - [**Planejamento**](#)	
 	- [Cronograma](pages/cronograma.md)
 	- [Processo de Design](pages/ProcessoDesign.md)
@@ -15,4 +16,3 @@
 - [**Design, Avaliação e Desenvolvimento**](#)
 	- [**Análise de Tarefas**](pages/planejamentoAnaliseTarefas)
 		- [Planejamento](pages/planejamentoAnaliseTarefas)
-- [Entregas](pages/entregas)
