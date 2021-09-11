@@ -7,9 +7,13 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 10.09.2021 | 0.1 | Criação do documento | Arthur, Brenno e Eliás | 
 
 ## 1. Introdução
-<div style="text-align: justify"></div>
+<div style="text-align: justify">A avaliação de IHC é fundamental para se obter um produto de qualidade de uso. Este tipo de processo orienta o avaliador a identificar problemas no sistema que possam prejudicar a experiência particular dos usuários.
+
+O presente documento tem por finalidade apresentar o planejamento da avaliação, contendo as informações necessárias para o entendimento da mesma.
+</div>
 
 ## 2. Metodologia Escolhida
+
 
 ### 2.1. Preparação
 <div style="text-align: justify">Durante a fase de preparação os avaliadores ficam responsáveis pela definição dos objetos, que consistem nas tarefas a serem analisadas e os passos necessários em cada tarefa de estudos, sendo que as tarefas a serem utilizadas devem ter sido identificadas previamente em algum tipo de análise de tarefas, e do material de apoio, que deve estar definido as perguntas do método e o perfil dos usuários utilizados para a avaliação.</div> 
