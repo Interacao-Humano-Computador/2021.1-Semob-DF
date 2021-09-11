@@ -13,7 +13,7 @@ O presente documento tem por finalidade apresentar o planejamento da avaliação
 </div>
 
 ## 2. Metodologia Escolhida
-
+A equipe optou por realizar o método percurso cognitivo, que consiste em avaliar a facilidade de aprendizado por exploração de um sistema. As tarefas dos usuários são decompostas em uma sequência de passos necessários para realizar a tarefa, e então o avaliador analisa cada ação tentando se colocar no lugar do usuário, procurando compreender se as tais ações conduzem a tarefa desejada. Caso encontre um problema, o avaliador propõe soluções (Baranauskas & Rocha, 2003; Silva & Barbosa, 2010; Nielsen & Mack, 1994 apud Preece et alii, 2005).
 
 ### 2.1. Preparação
 <div style="text-align: justify">Durante a fase de preparação os avaliadores ficam responsáveis pela definição dos objetos, que consistem nas tarefas a serem analisadas e os passos necessários em cada tarefa de estudos, sendo que as tarefas a serem utilizadas devem ter sido identificadas previamente em algum tipo de análise de tarefas, e do material de apoio, que deve estar definido as perguntas do método e o perfil dos usuários utilizados para a avaliação.</div> 
@@ -65,3 +65,7 @@ O presente documento tem por finalidade apresentar o planejamento da avaliação
 
 ## 3. Referência
 BARBOSA, Simone; SILVA, Bruno; SILVEIRA, Milene; GASPARINNI, Isabela; DARIN, Ticiane; BARBOSA, Gabriel. <b>Interação Humano-Computador e Experiência do usuário.</b>[S. l.]: Autopublicação, 2021.
+
+ROCHA, Heloísa Vieira Da;  BARANAUSKAS, Maria Cecília Calani. Design e Avaliação de Interfaces Humano-Computado.  Campinas: Unicamp, 2003.
+
+PREECE, Jennifer;  ROGERS, Yvonne;  SHARP, Helen. Design de Interação: Além da Interação Humano-Computador. Porto Alegre: Bookman, 2005.
