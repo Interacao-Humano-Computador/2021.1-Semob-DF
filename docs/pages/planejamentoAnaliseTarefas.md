@@ -56,8 +56,19 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 </div>
 
 ### 2.3. Interpretação e Consolidação dos Resultados
+Para interpretarmos os resultados, precisamos responder algumas fundamentais...
+<h3>O que o usuário precisa saber a priori para realizar as tarefas ?</h3>
+<p>Primeiramente para o usuário ser capaz de realizar as 3 tarefas ele precisa ter um conhecimento prévio em computação básica, como acessar a internet e acessar o site SEMOB, ter em mente alguma linha que deseja procurar e/ou o local de chegada e destino.
+</br>
+</br>
+<h3>o que o usuário deve aprender enquanto realiza as tarefas ?</h3>
+<p>O usuário deve aprender finalizar as tarefas com conhecimento de transportes públicos que fazem a rota que ela deseja, também espera-se que ele saiba a respeito das leis e as regulamentações a respeito do transporte publico</p>
+
+<h3>sugestões de correções para os problemas encontrados ?</h3>
+<p>O usuário deve aprender finalizar as tarefas com conhecimento de transportes públicos que fazem a rota que ela deseja, também espera-se que ele saiba a respeito das leis e as regulamentações a respeito do transporte publico</p> 
 
 ### 2.4. Relato dos Resultados
-
+gerar um relatório consolidado com os problemas encontrados e sugestões de
+correção
 ## 3. Referência
 BARBOSA, Simone; SILVA, Bruno; SILVEIRA, Milene; GASPARINNI, Isabela; DARIN, Ticiane; BARBOSA, Gabriel. <b>Interação Humano-Computador e Experiência do usuário.</b>[S. l.]: Autopublicação, 2021.
