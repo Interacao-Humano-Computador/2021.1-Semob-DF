@@ -11,5 +11,6 @@
 	- [Árvore de Tarefas Concorrentes](pages/analiseDeTarefa.md)
 	- [Princípios Gerais](pages/principiosGerais.md)
 	- [Metas de Usabilidade](pages/metasDeUsabilidade.md)
-  - [Guia de Estilo](pages/guia_de_estilo.md)
+    - [Guia de Estilo](pages/guia_de_estilo.md)
+    - [Storyboard](pages/storyboard.md)
 - [Entregas](pages/entregas)
