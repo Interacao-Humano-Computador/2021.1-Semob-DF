@@ -1,7 +1,7 @@
 ### Histórico de Versão
-Data | Versão | Descrição | Autor(es)
- -- | -- | -- | -- 
- 10.09.2021 | 0.1 | Criação do documento | Lívia Rodrigues
+Data | Versão | Descrição | Autor(es) | Revisado por| 
+ -- | -- | -- | -- |--
+ 10.09.2021 | 0.1 | Criação do documento | Lívia Rodrigues| Laís Portela
 
  ## 1. Introdução
 Storyboard é prototipação de baixa-fidelidade, é uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido.
