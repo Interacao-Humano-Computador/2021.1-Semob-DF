@@ -1,5 +1,5 @@
 ### Histórico de Versão
-Data | Versão | Descrição | Autor(es) | Revisado por|
+Data | Versão | Descrição | Autor(es) | Revisado por| 
  -- | -- | -- | -- |--
  10.09.2021 | 0.1 | Criação do documento | Lívia Rodrigues| Laís Portela
 

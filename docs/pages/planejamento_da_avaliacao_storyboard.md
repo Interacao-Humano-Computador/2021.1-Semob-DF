@@ -4,8 +4,8 @@
 ## Histórico de versão
 Data | Versão | Descrição | Autor(es)|Revisado por
 --|--|--|--|--
-11/09/2021 | 0.1 | Criação do conteúdo | Laís Portela|
-11/09/2021 | 0.2 | Adição de pontuação | Laís Portela|
+11/09/2021 | 0.1 | Criação do conteúdo | Laís Portela| Lívia Rodrigues
+11/09/2021 | 0.2 | Adição de pontuação | Laís Portela| Livia Rodrigues
 
 ## Introdução
 
