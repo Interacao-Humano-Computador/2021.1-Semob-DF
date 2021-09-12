@@ -4,7 +4,8 @@
 ## Histórico de versão
 Data | Versão | Descrição | Autor(es)|Revisado por
 --|--|--|--|--
-11/09/2021 | 0.1 | Criação do conteúdo | Laís Portela
+11/09/2021 | 0.1 | Criação do conteúdo | Laís Portela|
+11/09/2021 | 0.2 | Adição de pontuação | Laís Portela|
 
 ## Introdução
 
@@ -19,7 +20,7 @@ Ao decorrer da entrevista, serão feitas 5 perguntas que nos trará repostas qua
 
 ## Perguntas
 
-Essas cinco perguntas serão feitas para os três storyboards criados
+Essas cinco perguntas serão feitas para os três storyboards criados:
 
 |Número|Pergunta|Respostas aceitas|
 |---|---|---|
@@ -27,7 +28,7 @@ Essas cinco perguntas serão feitas para os três storyboards criados
 |2| Você se identifica com a história ?| Sim / Não|
 |3| Já teve problemas com o transporte público?| Sim / Não / Discursiva|
 |4| Você tem alguma sugestão de melhoria para o storyboard?| Sim / Não / Discursiva|
-|5| Acredita que o uso do site poderia melhorar a situação relatada no storyboard| Sim / Não / Discursiva|
+|5| Acredita que o uso do site poderia melhorar a situação relatada no storyboard?| Sim / Não / Discursiva|
 
 ## Respostas
 
@@ -36,4 +37,4 @@ Depois de feita as entrevistas será avalidado qual o storyboard que trouxe um r
 
 ## 4. Referências bibliográficas
 
-    Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário
+    Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
