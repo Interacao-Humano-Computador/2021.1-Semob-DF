@@ -4,7 +4,7 @@
 
 Data | Versão | Descrição | Autor(es) | Revisado por
 ---|---|---|---|---
-12.09.2021 | 0.1 | Criação do documento | Arthur, Brenno e Eliás | 
+12.09.2021 | 0.1 | Criação do documento | Arthur, Brenno e Eliás | Lívia Rodrigues 
 
 ## 1. Introdução
 <div style="text-align: justify">A avaliação de IHC é fundamental para se obter um produto de qualidade de uso. Este tipo de processo orienta o avaliador a identificar problemas no sistema que possam prejudicar a experiência particular dos usuários.
