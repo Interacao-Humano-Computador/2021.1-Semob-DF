@@ -1,6 +1,6 @@
 # Resultados
 
-## Histórico de versão
+### Histórico de versão
 Data | Versão | Descrição | Autor(es)|Revisado por
 --|--|--|--|--
 12/09/2021 | 0.1 | Criação do conteúdo | Ana Júlia | |
