@@ -4,7 +4,7 @@
 
 Data | Versão | Descrição | Autor(es) | Revisado por
 ---|---|---|---|---
-10.09.2021 | 0.1 | Criação do documento | Arthur, Brenno e Eliás | 
+12.09.2021 | 0.1 | Criação do documento | Arthur, Brenno e Eliás | 
 
 ## 1. Introdução
 <div style="text-align: justify">A avaliação de IHC é fundamental para se obter um produto de qualidade de uso. Este tipo de processo orienta o avaliador a identificar problemas no sistema que possam prejudicar a experiência particular dos usuários.
@@ -13,14 +13,14 @@ O presente documento tem por finalidade apresentar o planejamento da avaliação
 </div>
 
 ## 2. Metodologia Escolhida
-A equipe optou por realizar o método percurso cognitivo, que consiste em avaliar a facilidade de aprendizado por exploração de um sistema. As tarefas dos usuários são decompostas em uma sequência de passos necessários para realizar a tarefa, e então o avaliador analisa cada ação tentando se colocar no lugar do usuário, procurando compreender se as tais ações conduzem a tarefa desejada. Caso encontre um problema, o avaliador propõe soluções (Baranauskas & Rocha, 2003; Silva & Barbosa, 2010; Nielsen & Mack, 1994 apud Preece et alii, 2005).
+<div style="text-align: justify">A equipe optou por realizar o método percurso cognitivo, que consiste em avaliar a facilidade de aprendizado por exploração de um sistema. As tarefas dos usuários são decompostas em uma sequência de passos necessários para realizar a tarefa, e então o avaliador analisa cada ação tentando se colocar no lugar do usuário, procurando compreender se as tais ações conduzem a tarefa desejada. Caso encontre um problema, o avaliador propõe soluções (Baranauskas & Rocha, 2003; Silva & Barbosa, 2010; Nielsen & Mack, 1994 apud Preece et alii, 2005).</div>
 
 ### 2.1. Preparação
 <div style="text-align: justify">Durante a fase de preparação os avaliadores ficam responsáveis pela definição dos objetos, que consistem nas tarefas a serem analisadas e os passos necessários em cada tarefa de estudos, sendo que as tarefas a serem utilizadas devem ter sido identificadas previamente em algum tipo de análise de tarefas, e do material de apoio, que deve estar definido as perguntas do método e o perfil dos usuários utilizados para a avaliação.</div> 
 <div style="text-align: justify">Como preparação de nosso projeto iremos utilizar como base as tarefas de <i>Pesquisa por linhas de transporte</i>, <i>Pesquisa de pontos de referencia</i>, e <i>Consulta de leis</i> definidas na <a href="https://interacao-humano-computador.github.io/2021.1-Semob-DF/#/pages/analiseDeTarefa">Árvore de Tarefas Concorrentes</a>, além do próprio site do <a href="https://semob.df.gov.br/">SEMOB</a>.</div>
 
 #### Tarefa 1 - Pesquisa por linhas de transporte
-<div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que deseja pesquisar ônibus por locais de referência<br>
+<div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que deseja pesquisar por uma linha específica<br>
 <b>Passos:</b><br>
 1. Acessar o site do SEMOB<br>
 2. Acessar link "DF no Ponto - Horários e itinerários dos ônibus"<br>
@@ -29,7 +29,7 @@ A equipe optou por realizar o método percurso cognitivo, que consiste em avalia
 5. Acessar linha</div>
 
 #### Tarefa 2: Pesquisa de pontos de referência
-<div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que deseja pesquisar por uma linha específica<br>
+<div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que deseja pesquisar ônibus por locais de referência<br>
 <b>Passos:</b><br>
 1. Acessar o site do SEMOB<br>
 2. Acessar link "DF no Ponto - Horários e itinerários dos ônibus"<br>
@@ -61,20 +61,19 @@ A equipe optou por realizar o método percurso cognitivo, que consiste em avalia
 
 ### 2.3. Interpretação e Consolidação dos Resultados
 Para interpretarmos os resultados, precisamos responder algumas fundamentais...
-<h3>O que o usuário precisa saber a priori para realizar as tarefas ?</h3>
-<p>Primeiramente para o usuário ser capaz de realizar as 3 tarefas ele precisa ter um conhecimento prévio em computação básica, como acessar a internet e acessar o site SEMOB, ter em mente alguma linha que deseja procurar e/ou o local de chegada e destino.
-</br>
-</br>
-<h3>o que o usuário deve aprender enquanto realiza as tarefas ?</h3>
-<p>O usuário deve aprender finalizar as tarefas com conhecimento de transportes públicos que fazem a rota que ela deseja, também espera-se que ele saiba a respeito das leis e as regulamentações a respeito do transporte publico</p>
+#### O que o usuário precisa saber a priori para realizar as tarefas ?
+<div style="text-align: justify">Primeiramente para o usuário ser capaz de realizar as 3 tarefas ele precisa ter um conhecimento prévio em computação básica, como acessar a internet e acessar o site SEMOB, ter em mente alguma linha que deseja procurar e/ou o local de chegada e destino.</div>
 
-<h3>sugestões de correções para os problemas encontrados ?</h3>
-<p>O usuário deve aprender finalizar as tarefas com conhecimento de transportes públicos que fazem a rota que ela deseja, também espera-se que ele saiba a respeito das leis e as regulamentações a respeito do transporte publico</p> 
+#### O que o usuário deve aprender enquanto realiza as tarefas ?
+<div style="text-align: justify">O usuário deve aprender finalizar as tarefas com conhecimento de transportes públicos que fazem a rota que ela deseja, também espera-se que ele saiba a respeito das leis e as regulamentações a respeito do transporte publico.</div>
+
+#### Sugestões de correções para os problemas encontrados ?
+<div style="text-align: justify">O usuário deve aprender finalizar as tarefas com conhecimento de transportes públicos que fazem a rota que ela deseja, também espera-se que ele saiba a respeito das leis e as regulamentações a respeito do transporte publico.</div> 
 
 ### 2.4. Relato dos Resultados
-gerar um relatório consolidado com os problemas encontrados e sugestões de
-correção
-## 3. Referência
+<div style="text-align: justify">Gerar um relatório consolidado com os problemas encontrados e sugestões de correção.</div>
+
+## 3. Referências
 BARBOSA, Simone; SILVA, Bruno; SILVEIRA, Milene; GASPARINNI, Isabela; DARIN, Ticiane; BARBOSA, Gabriel. <b>Interação Humano-Computador e Experiência do usuário.</b>[S. l.]: Autopublicação, 2021.
 
 ROCHA, Heloísa Vieira Da;  BARANAUSKAS, Maria Cecília Calani. Design e Avaliação de Interfaces Humano-Computado.  Campinas: Unicamp, 2003.

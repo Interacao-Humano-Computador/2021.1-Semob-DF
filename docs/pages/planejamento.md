@@ -1,6 +1,14 @@
 # Planejamento
 
+### Histórico de versão
+Data | Versão | Descrição | Autor(es)|Revisado por
+--|--|--|--|--
+15/08/2021 | 0.1 | Criação do conteúdo | Ana Júlia | |
+12/09/2021 | 0.2 | Adição do texto explicativo | Ana Júlia | |
+
 ## Sites Avaliados
+Antes de selecionar um site, foi necessário fazer uma pesquisa com diversos sites da internet, em que todos passaram por uma avaliação heurística de usuabilidade. Abaixo estão listados os sites que foram avaliados e um pequeno relato de seus objetivos.
+
 | Nome  | Logo | Descrição|
 |---|---|---|
 |[Semob](http://semob.df.gov.br/)| <img src="images/semob_logo.png" width="150"> | O site da Secrataria de Transporte e Mobilidade, tem como objetivo divulgar notícias sobre o transpote público em qualquer localidade do Distrito Federal.  
