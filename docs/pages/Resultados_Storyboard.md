@@ -3,8 +3,8 @@
 ### Histórico de versão
 Data | Versão | Descrição | Autor(es)|Revisado por
 --|--|--|--|--
-12/09/2021 | 0.1 | Criação do conteúdo | Ana Júlia | |
-12/09/2021 | 0.2 | Criação da conclusão | Ana Júlia | |
+12/09/2021 | 0.1 | Criação do conteúdo | Ana Júlia | Laís Portela|
+12/09/2021 | 0.2 | Criação da conclusão | Ana Júlia |Laís Portela |
 
 ## Pesquisa
 Para avaliar os storyboard, decidimos entrevistar três pessoas que se encaixam no perfil de usuário definido anteriormente. Fizemos as perguntas apresentadas na aba *Planejamento da Avaliação*, e obtivemos as respostas abaixo.
