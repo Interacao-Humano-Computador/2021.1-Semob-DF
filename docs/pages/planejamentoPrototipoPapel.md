@@ -4,7 +4,8 @@
 
 Data | Versão | Descrição | Autor(es) | Revisado por
 ---|---|---|---|---
-18.09.2021 | 0.1 | Criação do documento | Brenno | 
+18.09.2021 | 0.1 | Criação do documento | Brenno | Lívia |
+18.09.2021 | 0.1.1 | Adição das informações da tarefa 2 | Brenno e Lívia | 
 
 ## 1. Introdução
 <div style="text-align: justify">A realização da prototipação em papel é considerada de grande valia na avaliação de IHC por se tratar de uma metodologia barata e rápida, consistindo de simulações de uso com potenciais usuários, possibilitando a identificação de problemas de usabilidade antes da solução executável, além de comparar diferentes alternativas de design, analisando soluções parciais.(BARBOSA et al., 2021)<br>
@@ -24,6 +25,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 ### 2.1. Preparação
 <div style="text-align: justify">Durante a atividade de preparação deve ser apresentado o material de apoio e os protótipos em papel, sendo esses sem detalhes que não forem relevantes.</div>
+<div style="text-align: justify"> Em nosso trabalho será utilizado o software <i>balsamiq</i> na realização dos protótipos de baixa fidelidade.</div>
 
 #### 2.1.1 Termo de consentimento
 <img src="images/termoDeConsentimento.png"><br>
@@ -46,11 +48,24 @@ Imagem 1 - Fonte: Criação própria
 ###### Questionário pós teste
 ###### Protótipos
 
-##### Tarefa 2: Pesquisa por linhas de transporte e referência
+##### Tarefa 2: Pesquisa por linhas de transporte
 ###### Explicação da tarefa
 ###### Questionário pré teste
 ###### Questionário pós teste
+
 ###### Protótipos
+<img src="images/Página inicial - Topo.png"><br>
+Imagem 2 - Fonte: Criação própria
+<img src="images/Página Inicial - Meio.png"><br>
+Imagem 3 - Fonte: Criação própria
+<img src="images/DFnoPonto - Inicio.png"><br>
+Imagem 4 - Fonte: Criação própria
+<img src="images/DFnoPonto - Linhas.png"><br>
+Imagem 5 - Fonte: Criação própria
+<img src="images/DFnoPonto - Linhas pesquisadas.png"><br>
+Imagem 6 - Fonte: Criação própria
+<img src="images/DFnoPonto - Informações da linha.png"><br>
+Imagem 7 - Fonte: Criação própria
 
 ##### Tarefa 3: Consultar leis
 ###### Explicação da tarefa
