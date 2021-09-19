@@ -17,6 +17,7 @@
 	- *Nível 1*
 		- [**Análise de Tarefas**](#)
 			- [Planejamento](pages/planejamentoAnaliseTarefas)
+			- [Relato](pages/relatoAnalisedeTarefas.md)
 		- [**Storyboard**](#)
 			- [Planejamento da avaliação](pages/planejamento_da_avaliacao_storyboard.md)
 			- [Storyboard](pages/storyboard.md)
