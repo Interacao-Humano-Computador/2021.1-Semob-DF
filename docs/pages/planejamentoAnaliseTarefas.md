@@ -17,9 +17,9 @@ O presente documento tem por finalidade apresentar o planejamento da avaliação
 
 ### 2.1. Preparação
 <div style="text-align: justify">Durante a fase de preparação os avaliadores ficam responsáveis pela definição dos objetos, que consistem nas tarefas a serem analisadas e os passos necessários em cada tarefa de estudos, sendo que as tarefas a serem utilizadas devem ter sido identificadas previamente em algum tipo de análise de tarefas, e do material de apoio, que deve estar definido as perguntas do método e o perfil dos usuários utilizados para a avaliação.</div> 
-<div style="text-align: justify">Como preparação de nosso projeto iremos utilizar como base as tarefas de <i>Pesquisa por linhas de transporte</i>, <i>Pesquisa de pontos de referencia</i>, e <i>Consulta de leis</i> definidas na <a href="https://interacao-humano-computador.github.io/2021.1-Semob-DF/#/pages/analiseDeTarefa">Árvore de Tarefas Concorrentes</a>, além do próprio site do <a href="https://semob.df.gov.br/">SEMOB</a>.</div>
+<div style="text-align: justify">Como preparação de nosso projeto teremos como objetivo identificar problemas na interface e analisar a apropriação da tecnologia. Iremos utilizar como base as tarefas de <i>Pesquisa por linhas de transporte</i>, <i>Pesquisa de pontos de referencia</i>, e <i>Consulta de leis</i> definidas na <a href="https://interacao-humano-computador.github.io/2021.1-Semob-DF/#/pages/analiseDeTarefa">Árvore de Tarefas Concorrentes</a>, além do próprio site do <a href="https://semob.df.gov.br/">SEMOB</a> e três avaliadores.</div>
 
-#### Tarefa 1 - Pesquisa por linhas de transporte
+#### Tarefa 1: Pesquisa por linhas de transporte
 <div style="text-align: justify"><b>Perfil do usuário:</b> Pessoa que deseja pesquisar por uma linha específica<br>
 <b>Passos:</b><br>
 1. Acessar o site do SEMOB<br>
