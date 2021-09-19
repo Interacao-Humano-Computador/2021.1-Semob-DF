@@ -6,6 +6,7 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 ---|---|---|---|---
 18.09.2021 | 0.1 | Criação do documento | Brenno | Lívia |
 18.09.2021 | 0.1.1 | Adição das informações da tarefa 2 | Brenno e Lívia | 
+18.09.2021 | 0.1.2 | Adição das informações da tarefa 2 | Lívia |  
 
 ## 1. Introdução
 <div style="text-align: justify">A realização da prototipação em papel é considerada de grande valia na avaliação de IHC por se tratar de uma metodologia barata e rápida, consistindo de simulações de uso com potenciais usuários, possibilitando a identificação de problemas de usabilidade antes da solução executável, além de comparar diferentes alternativas de design, analisando soluções parciais.(BARBOSA et al., 2021)<br>
@@ -50,8 +51,33 @@ Imagem 1 - Fonte: Criação própria
 
 ##### Tarefa 2: Pesquisa por linhas de transporte
 ###### Explicação da tarefa
+<div style="text-align: justify">O site oferece informações de linhas de transporte para a população do Distrito Federal, a fim de auxiliar na procura de ônibus para as rotas existentes e facilitar na busca pelos destinos desejados.</div>
+<div style="text-align: justify">Para pesquisar por linhas de transporte, o usuário deve acessar o site, rolar a página principal até chegar em serviços mais procurados, ao clicar no botão "DF no Ponto - Horários e itinerários dos ônibus" uma nova página será aberta oferecendo as opções (linha, cidade, referência, mapa, veículos e geoMobi) de busca que o usuário deseja fazer.</div>  
+<div style="text-align: justify">A avaliação deve ser realizada da seguinte forma: </div> 
+<ul>
+   <li>Fazer as perguntas pré-teste ao usuário.</li>
+   <li>Informar ao usuário a linha do ônibus utilizada para fazer os protótipos: 099.1 e deixar a sua escolha para procurar por outra de sua preferência.</li>
+   <li>Fazer as perguntas pós teste ao usuário.</li>
+</ul>
+
 ###### Questionário pré teste
+<ul>
+   <li>Qual é o seu nome?</li>
+   <li>Qual a sua idade?</li>
+   <li>Qual a sua afinidade com tecnologia?(1 baixo, 5 alto)</li>
+   <li>Já acessou o SEMOB anteriormente?</li>
+   <li>Já utilizou o sistema do DFnoPonto anteriormente?</li>
+   <li>Como você costuma se informar sobre os horários e trajetos dos ônibus?</li>
+   <li>Você utiliza ônibus constantemente para se locomover?</li>
+</ul>
+
 ###### Questionário pós teste
+<ul>
+   <li>O que você achou do sistema?</li>
+   <li>Qual foi sua maior dificuldade utilizando o sistema?</li>
+   <li>Quão difícil foi utilizar a interface?(1 pouco, 5 muito)</li>
+   <li>O que poderia ser feito para melhorar sua experiência?</li>
+</ul>
 
 ###### Protótipos
 <img src="images/Página inicial - Topo.png"><br>
