@@ -7,7 +7,8 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 18.09.2021 | 0.1 | Criação do documento | Brenno | Lívia |
 18.09.2021 | 0.1.1 | Adição das informações da tarefa 2 | Brenno e Lívia | 
 18.09.2021 | 0.1.2 | Adição das informações da tarefa 2 | Lívia |  
-19.09.2021 | 0.1.3 | Adição das informações da tarefa 3 | Ana Júlia |  
+19.09.2021 | 0.1.3 | Adição das informações da tarefa 3 | Ana Júlia |  Laís Portela
+19.09.2021 | 0.1.4 | Protótipo da página de leis | Laís |  Ana Júlia
 
 ## 1. Introdução
 <div style="text-align: justify">A realização da prototipação em papel é considerada de grande valia na avaliação de IHC por se tratar de uma metodologia barata e rápida, consistindo de simulações de uso com potenciais usuários, possibilitando a identificação de problemas de usabilidade antes da solução executável, além de comparar diferentes alternativas de design, analisando soluções parciais.(BARBOSA et al., 2021)<br>
@@ -97,7 +98,7 @@ Imagem 7 - Fonte: Criação própria
 ##### Tarefa 3: Consultar leis
 ###### Explicação da tarefa
 <div style="text-align: justify"> O site possui informações sobre leis do *Código Brasileiro de Trânsito*, com o intuito de informar a população que utiliza transporte público dos seus direitos e deveres como cidadãos brasileiros.</div>
-<div style="text-align: justify"> Para acessar a página que contém informações a respeito das leis que envolvem o trasnporte público, o usuário deverá: acessar o site do SEMOB, em seguida, procurar na parte esquerda da tela a opção *Leis e Regulamentação*, clicando nessa opção, o usuário será levado para um nova página(*Leis e Regulamentação*). Nessa página ele informará o ano desejado, e em seguida poderá acessar a lei desejada.</div>
+<div style="text-align: justify"> Para acessar a página que contém informações a respeito das leis que envolvem o trasnporte público, o usuário deverá: acessar o site do SEMOB, em seguida, procurar na parte esquerda da tela a opção Leis e Regulamentação, clicando nessa opção, o usuário será levado para um nova página(Leis e Regulamentação). Nessa página ele informará o ano desejado, e em seguida poderá acessar a lei desejada.</div>
 
 ###### Questionário pré teste
 * Qual é o seu nome?
@@ -115,6 +116,8 @@ Imagem 7 - Fonte: Criação própria
 * O quão você diria que é importante saber sobre essas leis que dizem respeito sobre o transporte público?(1 pouco, 5 muito)
 
 ###### Protótipos
+<img src="images/prototipoLeis.jpeg"><br>
+Imagem 8 - Fonte: Criação própria
 
 ### 2.2. Coleta de Dados
 <div style="text-align: justify"> Na Coleta de Dados não deve ser fornecido explicações ou orientações de como o usuário deve interagir com a interface, mas sim apresentar o protótipo e o que ele é capaz de representar.</div>
