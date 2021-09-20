@@ -16,11 +16,11 @@
 - [**Design, Avaliação e Desenvolvimento**](#)
 	- *Nível 1*
 		- [**Análise de Tarefas**](#)
-			- [Planejamento](pages/planejamentoAnaliseTarefas)
-			- [Relato](pages/relatoAnalisedeTarefas.md)
+			- [Planejamento da avaliação](pages/planejamentoAnaliseTarefas)
+			- [Relato dos Resultados](pages/relatoAnalisedeTarefas.md)
 		- [**Storyboard**](#)
 			- [Planejamento da avaliação](pages/planejamento_da_avaliacao_storyboard.md)
 			- [Storyboard](pages/storyboard.md)
 			- [Relato dos Resultados](pages/Resultados_Storyboard.md)
 	- *Nível 2*
-		- [Planejamento](pages/planejamentoPrototipoPapel.md)
+		- [Planejamento da avaliação](pages/planejamentoPrototipoPapel.md)

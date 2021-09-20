@@ -28,7 +28,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 ### 2.1. Preparação
 <div style="text-align: justify">Durante a atividade de preparação deve ser apresentado o material de apoio e os protótipos em papel, sendo esses sem detalhes que não forem relevantes.</div>
-<div style="text-align: justify"> Em nosso trabalho será utilizado o software <i>balsamiq</i> na realização dos protótipos de baixa fidelidade.</div>
+<div style="text-align: justify"> Em nosso trabalho será utilizado o software <i>balsamiq</i> e protótipos desenhados a mão na realização dos protótipos de baixa fidelidade.</div>
 
 #### 2.1.1 Termo de consentimento
 <img src="images/termoDeConsentimento.png"><br>
