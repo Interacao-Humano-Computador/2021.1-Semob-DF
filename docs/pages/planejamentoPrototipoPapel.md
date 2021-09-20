@@ -69,16 +69,13 @@ Imagem 1 - Fonte: Criação própria
 
 ###### Protótipos
 <img src="images/Página inicial - Topo.png"><br>
-
 Imagem 2 - Fonte: Criação própria
 
 <img src="images/tela - resultado de pesquisa.png"><br>
-
-Imagem 2 - Fonte: Criação própria
+Imagem 3 - Fonte: Criação própria
 
 <img src="images/tela de busca.png"><br>
-
-Imagem 2 - Fonte: Criação própria
+Imagem 4 - Fonte: Criação própria
 
 
 ##### Tarefa 2: Pesquisa por linhas de transporte
@@ -113,17 +110,17 @@ Imagem 2 - Fonte: Criação própria
 
 ###### Protótipos
 <img src="images/Página inicial - Topo.png"><br>
-Imagem 2 - Fonte: Criação própria
-<img src="images/Página Inicial - Meio.png"><br>
-Imagem 3 - Fonte: Criação própria
-<img src="images/DFnoPonto - Inicio.png"><br>
-Imagem 4 - Fonte: Criação própria
-<img src="images/DFnoPonto - Linhas.png"><br>
 Imagem 5 - Fonte: Criação própria
-<img src="images/DFnoPonto - Linhas pesquisadas.png"><br>
+<img src="images/Página Inicial - Meio.png"><br>
 Imagem 6 - Fonte: Criação própria
-<img src="images/DFnoPonto - Informações da linha.png"><br>
+<img src="images/DFnoPonto - Inicio.png"><br>
 Imagem 7 - Fonte: Criação própria
+<img src="images/DFnoPonto - Linhas.png"><br>
+Imagem 8 - Fonte: Criação própria
+<img src="images/DFnoPonto - Linhas pesquisadas.png"><br>
+Imagem 9 - Fonte: Criação própria
+<img src="images/DFnoPonto - Informações da linha.png"><br>
+Imagem 10 - Fonte: Criação própria
 
 ##### Tarefa 3: Consultar leis
 ###### Explicação da tarefa
@@ -147,7 +144,7 @@ Imagem 7 - Fonte: Criação própria
 
 ###### Protótipos
 <img src="images/prototipoLeis.jpeg"><br>
-Imagem 8 - Fonte: Criação própria
+Imagem 11 - Fonte: Criação própria
 
 ### 2.2. Coleta de Dados
 <div style="text-align: justify"> Na Coleta de Dados não deve ser fornecido explicações ou orientações de como o usuário deve interagir com a interface, mas sim apresentar o protótipo e o que ele é capaz de representar.</div>
