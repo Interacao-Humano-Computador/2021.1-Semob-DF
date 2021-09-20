@@ -47,9 +47,39 @@ Imagem 1 - Fonte: Criação própria
 
 ##### Tarefa 1: Pesquisa por alguma notícia do site
 ###### Explicação da tarefa
+<div style="text-align: justify">O site oferece uma série de informações e notícias a respeito do transporte público para a população do distrito federal, a fim de deixar a sociedade ciente de novidades ou informações relevantes relacionadas ao transporte público.</div>
+<div style="text-align: justify">Para pesquisar alguma notícia, o usuário deve acessar o site, clicar no campo de pesquisa, situado no topo superior direito, digitar algum tópido de seu interesse e precionar Enter. Após isso, haverá uma mudança de tela, com uma série de notícias relacionadas ao tópido digitado, e então basta selecionar alguma notícia do interesse particular do usuário.</div>
+
 ###### Questionário pré teste
+<ul>
+   <li>Qual é o seu nome?</li>
+   <li>Qual a sua idade?</li>
+   <li>Qual a sua afinidade com tecnologia?(1 baixo, 5 alto)</li>
+   <li>Já acessou o SEMOB anteriormente?</li>
+   <li>Já precisou se informar a respeito de alguma notícia relacionada ao transporte público?</li>
+</ul>
+
 ###### Questionário pós teste
+<ul>
+   <li>O que você achou do sistema?</li>
+   <li>Qual foi sua maior dificuldade utilizando o sistema?</li>
+   <li>Quão difícil foi utilizar a interface?(1 pouco, 5 muito)</li>
+   <li>O que poderia ser feito para melhorar sua experiência?</li>
+</ul>
+
 ###### Protótipos
+<img src="images/Página inicial - Topo.png"><br>
+
+Imagem 2 - Fonte: Criação própria
+
+<img src="images/tela - resultado de pesquisa.png"><br>
+
+Imagem 2 - Fonte: Criação própria
+
+<img src="images/tela de busca.png"><br>
+
+Imagem 2 - Fonte: Criação própria
+
 
 ##### Tarefa 2: Pesquisa por linhas de transporte
 ###### Explicação da tarefa
