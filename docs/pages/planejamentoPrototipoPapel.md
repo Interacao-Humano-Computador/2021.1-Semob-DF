@@ -7,6 +7,7 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 18.09.2021 | 0.1 | Criação do documento | Brenno | Lívia |
 18.09.2021 | 0.1.1 | Adição das informações da tarefa 2 | Brenno e Lívia | 
 18.09.2021 | 0.1.2 | Adição das informações da tarefa 2 | Lívia |  
+19.09.2021 | 0.1.3 | Adição das informações da tarefa 3 | Ana Júlia |  
 
 ## 1. Introdução
 <div style="text-align: justify">A realização da prototipação em papel é considerada de grande valia na avaliação de IHC por se tratar de uma metodologia barata e rápida, consistindo de simulações de uso com potenciais usuários, possibilitando a identificação de problemas de usabilidade antes da solução executável, além de comparar diferentes alternativas de design, analisando soluções parciais.(BARBOSA et al., 2021)<br>
@@ -95,8 +96,24 @@ Imagem 7 - Fonte: Criação própria
 
 ##### Tarefa 3: Consultar leis
 ###### Explicação da tarefa
+<div style="text-align: justify"> O site possui informações sobre leis do *Código Brasileiro de Trânsito*, com o intuito de informar a população que utiliza transporte público dos seus direitos e deveres como cidadãos brasileiros.</div>
+<div style="text-align: justify"> Para acessar a página que contém informações a respeito das leis que envolvem o trasnporte público, o usuário deverá: acessar o site do SEMOB, em seguida, procurar na parte esquerda da tela a opção *Leis e Regulamentação*, clicando nessa opção, o usuário será levado para um nova página(*Leis e Regulamentação*). Nessa página ele informará o ano desejado, e em seguida poderá acessar a lei desejada.</div>
+
 ###### Questionário pré teste
+* Qual é o seu nome?
+* Qual a sua idade?
+* Qual a sua afinidade com tecnologia?(1 baixo, 5 alto)
+* Já acessou o SEMOB anteriormente?
+* Você costuma se informar sobre as leis de transito que envolvem o transporte público?
+* Você conhece alguma lei a respeito do transporte público?
+
 ###### Questionário pós teste
+* O que você achou do sistema?
+* Você encontrou alguma dificuldade ao utiliza-lo? Se sim, qual?
+* O quão difícil você diria que foi utilizar o sistema?(1 pouco, 5 muito)
+* O que poderia ser feito para melhorar a sua experiência?
+* O quão você diria que é importante saber sobre essas leis que dizem respeito sobre o transporte público?(1 pouco, 5 muito)
+
 ###### Protótipos
 
 ### 2.2. Coleta de Dados
