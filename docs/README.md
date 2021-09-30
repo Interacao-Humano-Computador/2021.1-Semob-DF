@@ -10,17 +10,17 @@ Será feito com base nos [príncipios de usabilidade e nas suas heurísticas que
 
 ## Site Escolhido
 
-O site escolhido para ser avaliado foi o da Secretária de Transporte e Monilidade do DF, o [SEMOB](http://semob.df.gov.br/).
+O site escolhido para ser avaliado foi o da Secretária de Transporte e Mobilidade do DF, o [SEMOB](http://semob.df.gov.br/).
 
 Por ser um site do governo, e ser acessado por milhares de trabalhores que dependem do transporte público e que querem ser informados a respeito dele, ele dever ser intuitivo, de fácil acesso, e deve se preocupar em organizar suas informações de modo que o usuário consiga acessá-las rapidamente.
 
 ## Integrantes
 
-|Nome|Github|Email|
-|---|---|---|
-|Ana Julia Luziano Briceno|[aluzianobriceno](https://github.com/aluzianobriceno)|aluzianobriceno@gmail.com|
-|Arthur de Melo Garcia|[ArthurMeloG](https://github.com/ArthurMeloG) | arthurgarciaunb@gmail.com|
-|Brenno Oliveira Silva|[brenno-silva](https://github.com/brenno-silva) | brenno.silva037@gmail.com|
-|Eliás Yousef Santana Ali|[eliasyousef00](https://github.com/eliasyousef00) | eliasyousef00@gmail.com|
-|Lais Portela de Aguiar|[laispa](https://github.com/laispa) | lais3722@gmail.com|
-|Livia Rodrigues Reis|[Liviarodrigues1](https://github.com/Liviarodrigues1) | poxalivia@gmail.com|
+| Nome                      | Github                                                | Email                     |
+| ------------------------- | ----------------------------------------------------- | ------------------------- |
+| Ana Julia Luziano Briceno | [aluzianobriceno](https://github.com/aluzianobriceno) | aluzianobriceno@gmail.com |
+| Arthur de Melo Garcia     | [ArthurMeloG](https://github.com/ArthurMeloG)         | arthurgarciaunb@gmail.com |
+| Brenno Oliveira Silva     | [brenno-silva](https://github.com/brenno-silva)       | brenno.silva037@gmail.com |
+| Eliás Yousef Santana Ali  | [eliasyousef00](https://github.com/eliasyousef00)     | eliasyousef00@gmail.com   |
+| Lais Portela de Aguiar    | [laispa](https://github.com/laispa)                   | lais3722@gmail.com        |
+| Livia Rodrigues Reis      | [Liviarodrigues1](https://github.com/Liviarodrigues1) | poxalivia@gmail.com       |

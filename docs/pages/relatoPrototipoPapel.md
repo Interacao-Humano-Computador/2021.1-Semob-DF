@@ -2,16 +2,16 @@
 
 ## Versionamento
 
-| Data       | Versão | Descrição                      | Autor(es)      | Revisado por |
-| ---------- | ------ | ------------------------------ | -------------- | ------------ |
-| 30.09.2021 | 0.1    | Criação do escopo do documento | Brenno         |              |
-| 30.09.2021 | 0.2    | Adição da entrevista 1         | Brenno e Lívia |              |
+| Data       | Versão | Descrição                          | Autor(es)      | Revisado por |
+| ---------- | ------ | ---------------------------------- | -------------- | ------------ |
+| 30.09.2021 | 0.1    | Criação do escopo do documento     | Brenno         |              |
+| 30.09.2021 | 0.2    | Adição da entrevista 1 e problemas | Brenno e Lívia |              |
 
 ## 1. Introdução
 
 ### 1.1. Metodologia
 
-<div style="text-align: justify">A realização da prototipação em papel é considerada de grande valia na avaliação de IHC por se tratar de uma metodologia barata e rápida, consistindo de simulações de uso com potenciais usuários, possibilitando a identificação de problemas de usabilidade antes da solução executável, além de comparar diferentes alternativas de design, analisando soluções parciais.(BARBOSA et al., 2021)<br>
+<div style="text-align: justify">A realização da prototipação em papel é considerada de grande valia na avaliação de IHC por se tratar de uma metodologia barata e rápida, consistindo de simulações de uso com potenciais usuários, possibilitando a identificação de problemas de usabilidade antes da solução executável, além de comparar diferentes alternativas de design, analisando soluções parciais.(BARBOSA et al., 2021). Em nosso projeto temos como objetivo identificar problemas na interação e interface.<br>
 O método consiste em cinco passos exemplificados pela tabela abaixo:</div>
 
 | Atividade                       | Tarefa                                                                                                                                                                                                                                                                            |
@@ -58,6 +58,34 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 <div style="text-align: justify">Nessa seção será documento as entrevistas, com o vídeo da gravação e  os possíveis problemas encontrados pelos participantes e identificados pelos entrevistadores durante a avaliação.</div>
 
 ### 2.1. Entrevista 1
+
+<div style="width: 50%;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/STFWHXdAT7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### Tarefa 1
+
+<b>Local:</b> Barra de links <br>
+<b>Fatores de usabilidade prejudicados:</b> Eficiência<br>
+<b>Descrição e justificativa do problema:</b> É caracterizado como um problema por aumentar o tempo que o usuário pode gastar procurando uma notícia<br>
+<b>Prioridade para correção:</b> Baixa<br>
+<b>Sugestões de correção:</b> Colocar um botão de notícias na barra de menu
+
+#### Tarefa 2
+
+<b>Local:</b> Barra de links e área de "Serviços mais procurados"<br>
+<b>Fatores de usabilidade prejudicados:</b> Eficiência<br>
+<b>Descrição e justificativa do problema:</b> É caracterizado como um problema por aumentar o tempo que o usuário pode gastar procurando uma notícia e confundi-lo com nomes parecidos mas que não apresentam a mesma funcionalidade<br>
+<b>Prioridade para correção:</b> Baixa<br>
+<b>Sugestões de correção:</b> Adicionar uma aba dentro "serviços" escrito "Serviços mais procurados"
+
+#### Tarefa 3
+
+<b>Local:</b> Página de Leis<br>
+<b>Fatores de usabilidade prejudicados:</b> Eficácia e Segurança<br>
+<b>Descrição e justificativa do problema:</b> É caracterizado como um problema por confundir o usuário no posicionamento dos itens<br>
+<b>Prioridade para correção:</b> Alta<br>
+<b>Sugestões de correção:</b> Reorganizar itens apresentados na página facilitando a jornada do usuário
 
 ### 2.2. Entrevista 2
 
