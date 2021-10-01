@@ -95,15 +95,15 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 #### Tarefa 1
 
 <b>Local:</b> Barra de links <br>
-<b>Fatores de usabilidade prejudicados:</b> Design minimalista <br>
-<b>Descrição e justificativa do problema:</b> É caracterizado como um problema porque o layout do site confundiu o usuário<br>
+<b>Fatores de usabilidade prejudicados:</b> Aprendizagem <br>
+<b>Descrição e justificativa do problema:</b> É caracterizado como um problema porque o layout do site confundiu o usuário, dificultando a aprendizagem do sistema<br>
 <b>Prioridade para correção:</b> Média<br>
 <b>Sugestões de correção:</b> Organização mais eficiente do layout do site.
 
 #### Tarefa 2
 
 <b>Local:</b> Barra de links e área de "Serviços mais procurados"<br>
-<b>Fatores de usabilidade prejudicados:</b> Liberdade prejudicada <br>
+<b>Fatores de usabilidade prejudicados:</b> Eficácia e eficiência <br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema por existir um único caminho para o "DF no ponto", e este não é tão óbvio<br>
 <b>Prioridade para correção:</b> Baixa<br>
 <b>Sugestões de correção:</b> Ser capaz de encontrar as linhas na barra de pesquisa do site
@@ -111,7 +111,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 #### Tarefa 3
 
 <b>Local:</b> Página de Leis<br>
-<b>Fatores de usabilidade prejudicados:</b> Liberdade prejudicada <br>
+<b>Fatores de usabilidade prejudicados:</b> Eficiência <br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema por existir um único caminho na interface para realizar tal tarefa<br>
 <b>Prioridade para correção:</b> baixa<br>
 <b>Sugestões de correção:</b> Ser possível acessar as leis pela barra de pesquisa.
