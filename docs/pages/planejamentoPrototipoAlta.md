@@ -2,10 +2,11 @@
 
 ## Versionamento
 
-| Data       | Versão | Descrição                             | Autor(es) | Revisado por |
-| ---------- | ------ | ------------------------------------- | --------- | ------------ |
-| 30.09.2021 | 0.1    | Adição da metodologia a ser utilizada | Brenno    |              |
-| 01.10.2021 | 0.1.1  | Correções na metodologia              | Brenno    |              |
+| Data       | Versão | Descrição                             | Autor(es)             | Revisado por |
+| ---------- | ------ | ------------------------------------- | --------------------- | ------------ |
+| 30.09.2021 | 0.1    | Adição da metodologia a ser utilizada | Brenno                |              |
+| 01.10.2021 | 0.1.1  | Correções na metodologia              | Brenno                |              |
+| 01.10.2021 | 0.1.2  | Adição do protótipo                   | Brenno, Eliás e Lívia |              |
 
 ## 1. Introdução
 
@@ -130,6 +131,8 @@ Imagem 1 - Fonte: Criação própria
 - O quão você diria que é importante saber sobre essas leis que dizem respeito sobre o transporte público?(1 pouco, 5 muito)
 
 #### 2.1.4 Protótipo
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOGBwgejzt0VKdTvNoLZKAk%2FProt%C3%B3tipo-de-papel%3Fnode-id%3D60%253A2" allowfullscreen></iframe>
 
 ### 2.2. Coleta de Dados
 
