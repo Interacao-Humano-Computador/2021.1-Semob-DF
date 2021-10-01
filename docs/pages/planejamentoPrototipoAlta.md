@@ -51,7 +51,7 @@ Imagem 1 - Fonte: Criação própria
 ###### Explicação da tarefa
 
 <div style="text-align: justify">O site oferece uma série de informações e notícias a respeito do transporte público para a população do distrito federal, a fim de deixar a sociedade ciente de novidades ou informações relevantes relacionadas ao transporte público.</div>
-<div style="text-align: justify">Para pesquisar alguma notícia, o usuário deve acessar o site, clicar no campo de pesquisa, situado no topo superior direito, digitar algum tópido de seu interesse e precionar Enter. Após isso, haverá uma mudança de tela, com uma série de notícias relacionadas ao tópido digitado, e então basta selecionar alguma notícia do interesse particular do usuário.</div>
+<div style="text-align: justify">Para pesquisar alguma notícia, o usuário deve acessar o site, clicar no campo de pesquisa, situado no topo superior direito, digitar algum tópico de seu interesse e precionar Enter ou clicar no link "VEJA TODAS AS NOTÍCIAS". Após isso, haverá uma mudança de tela, com uma série de notícias relacionadas ao tópico digitado, e então basta selecionar alguma notícia do interesse particular do usuário.</div>
 
 ###### Questionário pré teste
 
@@ -77,7 +77,7 @@ Imagem 1 - Fonte: Criação própria
 ###### Explicação da tarefa
 
 <div style="text-align: justify">O site oferece informações de linhas de transporte para a população do Distrito Federal, a fim de auxiliar na procura de ônibus para as rotas existentes e facilitar na busca pelos destinos desejados.</div>
-<div style="text-align: justify">Para pesquisar por linhas de transporte, o usuário deve acessar o site, rolar a página principal até chegar em serviços mais procurados, ao clicar no botão "DF no Ponto - Horários e itinerários dos ônibus" uma nova página será aberta oferecendo as opções (linha, cidade, referência, mapa, veículos e geoMobi) de busca que o usuário deseja fazer.</div>  
+<div style="text-align: justify">Para pesquisar por linhas de transporte, o usuário deve acessar o site, clicar em serviços no menu inicial e em seguida encontrar "DF no Ponto" ou rolar a página principal até chegar em serviços mais procurados, ao clicar no botão "DF no Ponto - Horários e itinerários dos ônibus" uma nova página será aberta oferecendo as opções (linha, cidade, referência, mapa, veículos e geoMobi) de busca que o usuário deseja fazer.</div>  
 <div style="text-align: justify">A avaliação deve ser realizada da seguinte forma: </div> 
 <ul>
    <li>Fazer as perguntas pré-teste ao usuário.</li>
