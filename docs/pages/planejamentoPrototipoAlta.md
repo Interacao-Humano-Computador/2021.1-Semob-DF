@@ -1,25 +1,25 @@
-# Planejamento do Protótipo em Papel
+# Planejamento do Protótipo de Alta Fidelidade
 
 ## Versionamento
 
 | Data       | Versão | Descrição                             | Autor(es) | Revisado por |
 | ---------- | ------ | ------------------------------------- | --------- | ------------ |
 | 30.09.2021 | 0.1    | Adição da metodologia a ser utilizada | Brenno    |              |
+| 01.10.2021 | 0.1.1  | Correções na metodologia              | Brenno    |              |
 
 ## 1. Introdução
 
-<div style="text-align: justify">A utilização de protótipos de alta fidelidade são de grande valia na processo de anaálise da interação humano-computador que, por meio de uma avaliação somativa, permite julgar a qualidade de uso de uma solução procurando ainda identificar se as metas de usabilidade foram alcançadas.<br>
-Para nossa avaliação iremos utilizar entrevistas com elementos da metodologia de prototipação em papel. O método será dividido em:
+<div style="text-align: justify">A utilização de protótipos de alta fidelidade são de grande valia na processo de análise da interação humano-computador que, por meio de uma avaliação somativa, permite julgar a qualidade de uso de uma solução procurando ainda identificar se as metas de usabilidade foram alcançadas.Para nossa avaliação iremos utilizar entrevistas com elementos da metodologia de prototipação em papel. O método será dividido em:
 </div>
 
-| Atividade                       | Tarefa                                                                                                                                                                                                                                                          |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Preparação                      | Definir tarefas para os participantes executarem<br> Definir o perfil dos participantes e recrutá-los<br> Criar protótipo de alta fidelidade da interface para executar as tarefas<br>                                                                          |
-| Coleta de dados e Interpretação | <div style="text-align: justify">Cada usuário deve executar as tarefas propostas interagindo com os protótipos, mediado pelo avaliador<br> Avaliador deve listar os problemas encontrados e refinar os protótipos para resolver os problemas mais simples</div> |
-| Consolidação dos resultados     | Priorizar a correção dos problemas não resolvidos e sugerir correções                                                                                                                                                                                           |
-| Relato dos resultados           | Relatar os problemas encontrados e sugestões de correção                                                                                                                                                                                                        |
+| Atividade                   | Tarefa                                                                                                                                                                                 |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Preparação                  | Definir tarefas para os participantes executarem<br> Definir o perfil dos participantes e recrutá-los<br> Criar protótipo de alta fidelidade da interface para executar as tarefas<br> |
+| Coleta de dados             | <div style="text-align: justify">Cada usuário deve executar as tarefas propostas interagindo com os protótipos, mediado pelo avaliador</div>                                           |
+| Consolidação dos resultados | Priorizar a correção dos problemas não resolvidos e sugerir correções                                                                                                                  |
+| Relato dos resultados       | Relatar os problemas encontrados e sugestões de correção                                                                                                                               |
 
-Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
+Tabela 1 - Fonte: Adaptado do Livro Interação Humano-Computador e Experiência do usuário
 
 ## 2. Atividades
 
@@ -38,7 +38,6 @@ Imagem 1 - Fonte: Criação própria
 <div style="text-align: justify">Para a realização da avaliação é preciso definir os perfis que devem ser focados. Em nosso projeto iremos focar em pessoas com alguma das seguintes características:</div>
 <ul>
     <li>Utilizadores de transporte público</li>
-    <li>Utilizadores de serviços por aplicativo</li>
     <li>Moradores do Distrito Federal</li>
 </ul>
 
@@ -135,35 +134,21 @@ Imagem 1 - Fonte: Criação própria
 ### 2.2. Coleta de Dados
 
 <div style="text-align: justify"> Na Coleta de Dados não deve ser fornecido explicações ou orientações de como o usuário deve interagir com a interface, mas sim apresentar o protótipo e o que ele é capaz de representar.</div>
-<div style="text-align: justify"> Para melhor experiência do usuário serão utilizados widgets em papel como auxílio na navegação. Além disso, caso seja possível e se faça necessário, elementos da interface poderão ser modificados durante a avaliação.</div>
+<div style="text-align: justify"> As entrevistas serão realizadas utilizando a plataforma de prototipação do <i>Figma</i>, onde será possível interagir com os botões referentes as funcionalidades testasdas nas tarefas.</div>
 
-### 2.3. Interpretação
-
-<div style="text-align: justify">Durante a interpretação os avaliadores deverão revisar as repostas apresentadas nos questionários, as anotações feitas por cada um e a gravação da entrevista.</div>
-<div style="text-align: justify"> Após a revisão deverá ser feito correções para a próxima entrevista.</div>
-
-### 2.3. Consolidação dos Resultados
+### 2.2. Consolidação dos Resultados
 
 <div style="text-align: justify"> Na Consolidação dos resultados os problemas que não foram resolvidos serão classificados de acordo com sua gravidade e frequência e a partir disso propor novas mudanças.</div>
 
-### 2.4. Relato dos Resultados
+### 2.3. Relato dos Resultados
 
 <div style="text-align: justify"> Por último temos o relato dos resultados que apresentará a qualquer parte interessada, todas as atividades realizadas, isto é:</div>
 <i>
 <ul>
     <li>"Os objetivos da avaliação;</li>
-    <li>Uma breve descrição do método de prototipação em papel;</li>
+    <li>Uma breve descrição do método;</li>
     <li>O número e o perfil de avaliadores e dos participantes;</li>
     <li>As tarefas executadas pelos participantes;</li>
-    <li>Uma lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto, indicando:
-        <ul>
-            <li>Local onde ocorreu;</li>
-            <li>Fatores de usabilidade prejudicados;</li>
-            <li>Descrição e justificativa do problema;</li>
-            <li>Correção realizada no protótipo em papel;</li>
-            <li>Indicação se o problema voltou a ocorrer depois da correção;</li>
-        </ul>
-    </li>
         <li>Uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
         <ul>
             <li>Local onde ocorreu;</li>
