@@ -30,4 +30,13 @@
     - [**Protótipo de Alta fidelidade**](#)
       - [Planejamento da avaliação](pages/planejamentoPrototipoAlta.md)
 - [**Verificação dos Artefatos**](#)
-  - [Planejamento](pages/planejamentoVerificacao.md)
+
+  - [Planejamento da verificação](pages/planejamentoVerificacao.md)
+  - _Planejamento_
+    - [Processo de Design](pages/verificacoes/processoDeDesign.md)
+  - _Análise de Requisitos_
+
+  - _Design, Avaliação e Desenvolvimento_
+    - [Planejamento da avaliação do Storyboard](pages/verificacoes/planejamento_da_avaliacao_storyboard.md)
+    - [Storyboard](pages/verificacoes/storyboard.md)
+    - [Relato dos Resultados do Storyboard](pages/verificacoes/Resultados_Storyboard.md)
