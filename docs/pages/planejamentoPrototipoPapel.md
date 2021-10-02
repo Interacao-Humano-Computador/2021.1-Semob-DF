@@ -5,11 +5,11 @@
 | Data       | Versão | Descrição                          | Autor(es)      | Revisado por |
 | ---------- | ------ | ---------------------------------- | -------------- | ------------ |
 | 18.09.2021 | 0.1    | Criação do documento               | Brenno         | Lívia        |
-| 18.09.2021 | 0.1.1  | Adição das informações da tarefa 2 | Brenno e Lívia |
-| 18.09.2021 | 0.1.2  | Adição das informações da tarefa 2 | Lívia          |
+| 18.09.2021 | 0.1.1  | Adição das informações da tarefa 2 | Brenno e Lívia |              |    
+| 18.09.2021 | 0.1.2  | Adição das informações da tarefa 2 | Lívia          |              |
 | 19.09.2021 | 0.1.3  | Adição das informações da tarefa 3 | Ana Júlia      | Laís Portela |
 | 19.09.2021 | 0.1.4  | Protótipo da página de leis        | Laís           | Ana Júlia    |
-| 20.09.2021 | 0.1.5  | Adição da tarefa 1                 | Eliás          |
+| 20.09.2021 | 0.1.5  | Adição da tarefa 1                 | Eliás          |              |
 
 ## 1. Introdução
 
