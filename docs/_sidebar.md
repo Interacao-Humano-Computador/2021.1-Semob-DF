@@ -26,3 +26,6 @@
     - [**Protótipo de Baixa fidelidade**](#)
       - [Planejamento da avaliação](pages/planejamentoPrototipoPapel.md)
       - [Relato da avaliação](pages/relatoPrototipoPapel.md)
+  - _Nível 3_
+    - [**Protótipo de Alta fidelidade**](#)
+      - [Planejamento da avaliação](pages/planejamentoPrototipoAlta.md)

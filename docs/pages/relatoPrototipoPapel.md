@@ -4,9 +4,10 @@
 
 | Data       | Versão | Descrição                          | Autor(es)      | Revisado por |
 | ---------- | ------ | ---------------------------------- | -------------- | ------------ |
-| 30.09.2021 | 0.1    | Criação do escopo do documento     | Brenno         |   Ana        |
-| 30.09.2021 | 0.2    | Adição da entrevista 1 e problemas | Brenno e Lívia |   Laís       |
-| 30.09.2021 | 0.3    | Adição da entrevista 3 e problemas | Laís e Ana     |              |
+| 30.09.2021 | 0.1    | Criação do escopo do documento     | Brenno         | Ana          |
+| 30.09.2021 | 0.2    | Adição da entrevista 1 e problemas | Brenno e Lívia | Laís         |
+| 01.10.2021 | 0.3    | Adição da entrevista 2 e problemas | Arthur e Eliás | Brenno       |
+| 01.10.2021 | 0.4    | Adição da entrevista 3 e problemas | Laís e Ana     | Brenno       |
 
 ## 1. Introdução
 
@@ -89,6 +90,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 <b>Sugestões de correção:</b> Reorganizar itens apresentados na página facilitando a jornada do usuário
 
 ### 2.2. Entrevista 2
+
 <div style="width: 50%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n40OKexwEjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -117,7 +119,6 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 <b>Prioridade para correção:</b> baixa<br>
 <b>Sugestões de correção:</b> Ser possível acessar as leis pela barra de pesquisa.
 
-
 ### 2.3. Entrevista 3
 
 <div style="width: 50%;">
@@ -127,7 +128,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 #### Tarefa 1
 
 <b>Local:</b> Barra de links <br>
-<b>Fatores de usabilidade prejudicados:</b> Aprendizagem e Praticidade <br>
+<b>Fatores de usabilidade prejudicados:</b> Aprendizagem e Eficácia <br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema porque o layout do site confundiu o usuário, dificultando a aprendizagem do sistema. O usuário acesso que tantas opções na barra de menu, poderiam ser caóticas.<br>
 <b>Prioridade para correção:</b> Média<br>
 <b>Sugestões de correção:</b> Organização mais eficiente do layout do site.
@@ -148,7 +149,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 <b>Prioridade para correção:</b> Média<br>
 <b>Sugestões de correção:</b> Ser possível acessar as leis pela barra de pesquisa.
 
-<b> Observações: </b> Como demonstrado na entrevista o prototipo por si só não é de difícil utilização, mas ele faz do grupo que se envolve com tecnologias continuamente. 
+<b> Observações: </b> Como demonstrado na entrevista o prototipo por si só não é de difícil utilização, mas ele faz do grupo que se envolve com tecnologias continuamente.
 
 ## 3. Bibliografia
 
