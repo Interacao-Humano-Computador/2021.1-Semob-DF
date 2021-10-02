@@ -29,3 +29,5 @@
   - _Nível 3_
     - [**Protótipo de Alta fidelidade**](#)
       - [Planejamento da avaliação](pages/planejamentoPrototipoAlta.md)
+- [**Verificação dos Artefatos**](#)
+  - [Planejamento](pages/planejamentoVerificacao.md)
