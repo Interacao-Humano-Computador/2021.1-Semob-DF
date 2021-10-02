@@ -13,7 +13,7 @@
 
 ## 1. Introdução
 
-<div style="text-align: justify">A realização da prototipação em papel é considerada de grande valia na avaliação de IHC por se tratar de uma metodologia barata e rápida, consistindo de simulações de uso com potenciais usuários, possibilitando a identificação de problemas de usabilidade antes da solução executável, além de comparar diferentes alternativas de design, analisando soluções parciais.(BARBOSA et al., 2021). Em nosso projeto temos como objetivo identificar problemas na interação e interface.<br>
+<div style="text-align: justify">A realização da prototipação em papel é considerada de grande valia na avaliação de IHC por se tratar de uma metodologia barata e rápida, consistindo de simulações de uso com potenciais usuários, possibilitando a identificação de problemas de usabilidade antes da solução executável, além de comparar diferentes alternativas de design, analisando soluções parciais.(BARBOSA et al., 2021)<br>
 O método consiste em cinco passos exemplificados pela tabela abaixo:
 </div>
 
