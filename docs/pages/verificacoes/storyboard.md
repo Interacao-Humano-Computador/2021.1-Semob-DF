@@ -4,12 +4,15 @@
 
 | Data       | Versão | Descrição           | Autor(es) | Revisado por |
 | ---------- | ------ | ------------------- | --------- | ------------ |
-| 02.10.2021 | 0.1    | Adição do documento | Brenno    |              |
+| 02.10.2021 | 0.1    | Adição do documento | Brenno    | Laís Portela |
+| 03.10.2021 | 0.2    | Adição de Revisor(es)| Laís Portela |          |
 
 ## 1. Introdução
 
 <b>Autor(es) do documento:</b> Lívia Rodrigues<br>
 <b>Inspetor/Moderador:</b> Brenno Oliveira<br>
+<b>Revisor(es)</b> Laís Portela <br>
+
 <a href="https://interacao-humano-computador.github.io/2021.1-Semob-DF/#/pages/storyboard">O documento pode ser acessado nesse link</a>
 
 ## 2. Perguntas

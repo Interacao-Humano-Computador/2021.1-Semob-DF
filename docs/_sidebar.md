@@ -35,8 +35,12 @@
   - _Planejamento_
     - [Processo de Design](pages/verificacoes/processoDeDesign.md)
   - _Análise de Requisitos_
-
+    - [Metas de Usabilidade](pages/verificacoes/metasDeUsabilidade.md)
+    
   - _Design, Avaliação e Desenvolvimento_
+    - [Planejamento da avaliação da Análise de Tarefas](pages/verificacoes/planejamentoAnaliseTarefas.md)
+    - [Relato dos Resultados da Analíse de Tarefas](pages/verificacoes/relatoAnalisedeTarefas.md)
     - [Planejamento da avaliação do Storyboard](pages/verificacoes/planejamento_da_avaliacao_storyboard.md)
     - [Storyboard](pages/verificacoes/storyboard.md)
     - [Relato dos Resultados do Storyboard](pages/verificacoes/Resultados_Storyboard.md)
+    - [Planejamento do Protótipo de Baixa Fidelidade](pages/verificacoes/planejamentoPrototipoPapel.md)
