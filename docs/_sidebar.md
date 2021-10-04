@@ -34,9 +34,12 @@
   - [Planejamento da verificação](pages/planejamentoVerificacao.md)
   - _Planejamento_
     - [Processo de Design](pages/verificacoes/processoDeDesign.md)
+    - [Sites Avaliados](pages/verificacoes/sitesAvaliadosAnalise.md)
   - _Análise de Requisitos_
     - [Metas de Usabilidade](pages/verificacoes/metasDeUsabilidade.md)
-    
+    - [Personas](pages/verificacoes/personasAnalise.md)
+    - [Guia de Estilo](pages/verificacoes/guiadeEstiloAnalise.md)
+
   - _Design, Avaliação e Desenvolvimento_
     - [Planejamento da avaliação da Análise de Tarefas](pages/verificacoes/planejamentoAnaliseTarefas.md)
     - [Relato dos Resultados da Analíse de Tarefas](pages/verificacoes/relatoAnalisedeTarefas.md)
