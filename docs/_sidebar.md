@@ -46,3 +46,5 @@
     - [Storyboard](pages/verificacoes/storyboard.md)
     - [Relato dos Resultados do Storyboard](pages/verificacoes/Resultados_Storyboard.md)
     - [Planejamento do Protótipo de Baixa Fidelidade](pages/verificacoes/planejamentoPrototipoPapel.md)
+    - [Site selecionado](pages/verificacoes/siteSelecionado.md)
+    - [Perfil de usuário](pages/verificacoes/perfil_usuario.md)
