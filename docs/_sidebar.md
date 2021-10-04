@@ -33,8 +33,10 @@
 
   - [Planejamento da verificação](pages/planejamentoVerificacao.md)
   - _Planejamento_
+    - [Cronograma](pages/verificacoes/cronograma.md)
     - [Processo de Design](pages/verificacoes/processoDeDesign.md)
   - _Análise de Requisitos_
+    - [Arvore de Tarefas Concorrentes](pages/verificacoes/analiseDeTarefa.md)
     - [Metas de Usabilidade](pages/verificacoes/metasDeUsabilidade.md)
     
   - _Design, Avaliação e Desenvolvimento_
