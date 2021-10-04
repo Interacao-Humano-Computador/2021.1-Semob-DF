@@ -36,11 +36,13 @@
     - [Cronograma](pages/verificacoes/cronograma.md)
     - [Processo de Design](pages/verificacoes/processoDeDesign.md)
     - [Sites Avaliados](pages/verificacoes/sitesAvaliadosAnalise.md)
+    - [Ferramentas](pages/verificacoes/ferramentas.md)
   - _Análise de Requisitos_
     - [Arvore de Tarefas Concorrentes](pages/verificacoes/analiseDeTarefa.md)
     - [Metas de Usabilidade](pages/verificacoes/metasDeUsabilidade.md)
     - [Personas](pages/verificacoes/personasAnalise.md)
     - [Guia de Estilo](pages/verificacoes/guiadeEstiloAnalise.md)
+    - [Princípios Gerais](pages/verificacoes/principiosGerais.md)
 
   - _Design, Avaliação e Desenvolvimento_
     - [Planejamento da avaliação da Análise de Tarefas](pages/verificacoes/planejamentoAnaliseTarefas.md)
