@@ -18,7 +18,7 @@
 | Pergunta                                                    | Está conforme? |
 | ----------------------------------------------------------- | -------------- |
 | Algum erro na ortografia?                                   | Sim            |
-| O histórico de versão está padronizado?                     | Nao            |
+| O histórico de versão está padronizado?                     | Não            |
 | O conteúdo está claro?                                      | Sim            |
 | Possui referências bibliogáficas?                           | Não            |
 | Existe uma listagem de sites avaliados?                     | Sim            |
@@ -27,9 +27,11 @@
 
 Tabela 1 - Fonte: Autor
 
+
 ## 3. Erros encontrados
 - O documento não dispõe de referências ou bibliografia
- 
+- O documento não dispõe de histórico de versão padronizado, não consta um revisor.
+
 ## 4. Referências bibliográficas
  
 BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
