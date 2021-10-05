@@ -1,4 +1,5 @@
 # Entrega 1 - Vídeo de apresentação
+
 <div style="width: 40%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WGYKmHaZyF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -25,4 +26,16 @@
 
 <div style="width: 40%;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GEUTfuhOf9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+# Entrega 6 - Vídeo de apresentação
+
+<div style="width: 40%;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7WcjSbO6zKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+# Entrega 7 - Vídeo de apresentação
+
+<div style="width: 40%;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/X69PfjMx8iI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
