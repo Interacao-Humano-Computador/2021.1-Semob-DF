@@ -2,10 +2,11 @@
 
 ## Versionamento
 
-| Data       | Versão | Descrição           | Autor(es) | Revisado por |
-| ---------- | ------ | ------------------- | --------- | ------------ |
-| 02.10.2021 | 0.1    | Adição do documento | Brenno    | Laís Portela |
-| 03.10.2021 | 0.2    | Adição de Revisor(es)| Laís Portela |          |
+| Data       | Versão | Descrição                                        | Autor(es)    | Revisado por |
+| ---------- | ------ | ------------------------------------------------ | ------------ | ------------ |
+| 02.10.2021 | 0.1    | Adição do documento                              | Brenno       | Laís Portela |
+| 03.10.2021 | 0.2    | Adição de Revisor(es)                            | Laís Portela |              |
+| 09.10.2021 | 0.3    | Adição das duas últimas perguntas da verificação | Brenno       |              |
 
 ## 1. Introdução
 
@@ -17,14 +18,16 @@
 
 ## 2. Perguntas
 
-| Pergunta                                                    | Está conforme? |
-| ----------------------------------------------------------- | -------------- |
-| O histórico de versão está padronizado?                     | Sim            |
-| A ortografia está correta?                                  | Não            |
-| Possui referências/bibliografia?                            | Sim            |
-| A referências/bibliografia estão sendo usadas corretamente? | Não            |
-| Possui legendas nas imagens?                                | Sim            |
-| Storyboards possuem descrições?                             | Sim            |
+| Pergunta                                                               | Está conforme? |
+| ---------------------------------------------------------------------- | -------------- |
+| O histórico de versão está padronizado?                                | Sim            |
+| A ortografia está correta?                                             | Não            |
+| Possui referências/bibliografia?                                       | Sim            |
+| A referências/bibliografia estão sendo usadas corretamente?            | Não            |
+| Possui legendas nas imagens?                                           | Sim            |
+| Storyboards possuem descrições?                                        | Sim            |
+| Possue breve descrição do que é um Storyboard?                         | Sim            |
+| É especificado as ferramentas utilizadas para criação dos Storyboards? | Sim            |
 
 Tabela 1 - Fonte: Autor
 

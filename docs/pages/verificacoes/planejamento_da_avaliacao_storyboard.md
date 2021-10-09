@@ -2,10 +2,12 @@
 
 ## Versionamento
 
-| Data       | Versão | Descrição           | Autor(es) | Revisado por |
-| ---------- | ------ | ------------------- | --------- | ------------ |
-| 02.10.2021 | 0.1    | Adição do documento | Brenno    | Laís Portela |
-| 03.10.2021 | 0.2    | Adição de Revisor(es)| Laís Portela |          |
+| Data       | Versão | Descrição                                | Autor(es)    | Revisado por |
+| ---------- | ------ | ---------------------------------------- | ------------ | ------------ |
+| 02.10.2021 | 0.1    | Adição do documento                      | Brenno       | Laís Portela |
+| 03.10.2021 | 0.2    | Adição de Revisor(es)                    | Laís Portela |              |
+| 09.10.2021 | 0.3    | Adição da última pergunta da verificação | Brenno       |              |
+
 ## 1. Introdução
 
 <b>Autor(es) do documento:</b> Laís Portela<br>
@@ -15,18 +17,19 @@
 
 ## 2. Perguntas
 
-| Pergunta                                                           | Está conforme? |
-| ------------------------------------------------------------------ | -------------- |
-| O histórico de versão está padronizado?                            | Sim            |
-| A ortografia está correta?                                         | Não            |
-| Possui referências/bibliografia?                                   | Sim            |
-| A referências/bibliografia estão sendo usadas corretamente?        | Não            |
-| Possui legendas nas tabelas?                                       | Não            |
-| O objetivo da avaliação está especificado?                         | Sim            |
-| O perfil dos participantes para as entrevistas está especificado?  | Não            |
-| Possui descrição da metodologia utilizada?                         | Sim            |
-| Possui o termo de consentimento?                                   | Não            |
-| Possui descrição do que estará no relato?                          | Sim            |
+| Pergunta                                                          | Está conforme? |
+| ----------------------------------------------------------------- | -------------- |
+| O histórico de versão está padronizado?                           | Sim            |
+| A ortografia está correta?                                        | Não            |
+| Possui referências/bibliografia?                                  | Sim            |
+| A referências/bibliografia estão sendo usadas corretamente?       | Não            |
+| Possui legendas nas tabelas?                                      | Não            |
+| O objetivo da avaliação está especificado?                        | Sim            |
+| O perfil dos participantes para as entrevistas está especificado? | Não            |
+| Possui descrição da metodologia utilizada?                        | Sim            |
+| Possui o termo de consentimento?                                  | Não            |
+| Possui descrição do que estará no relato?                         | Sim            |
+| Possui um roteiro de como o método será aplicado?                 | Não            |
 
 Tabela 1 - Fonte: Autor
 
@@ -37,6 +40,7 @@ Tabela 1 - Fonte: Autor
 - Não é especificado qual o perfil dos participantes
 - A tabela das perguntas não possui legenda
 - Não é apresentado o termo de consentimento
+- Não está especificado como será o passo a passo da aplicação do método
 
 ## 4. Bibliografia
 
