@@ -2,12 +2,13 @@
 
 ## Versionamento
 
-| Data       | Versão | Descrição                          | Autor(es)      | Revisado por |
-| ---------- | ------ | ---------------------------------- | -------------- | ------------ |
-| 30.09.2021 | 0.1    | Criação do escopo do documento     | Brenno         | Ana          |
-| 30.09.2021 | 0.2    | Adição da entrevista 1 e problemas | Brenno e Lívia | Laís         |
-| 01.10.2021 | 0.3    | Adição da entrevista 2 e problemas | Arthur e Eliás | Brenno       |
-| 01.10.2021 | 0.4    | Adição da entrevista 3 e problemas | Laís e Ana     | Brenno       |
+| Data       | Versão | Descrição                                   | Autor(es)      | Revisado por |
+| ---------- | ------ | ------------------------------------------- | -------------- | ------------ |
+| 30.09.2021 | 0.1    | Criação do escopo do documento              | Brenno         | Ana          |
+| 30.09.2021 | 0.2    | Adição da entrevista 1 e problemas          | Brenno e Lívia | Laís         |
+| 01.10.2021 | 0.3    | Adição da entrevista 2 e problemas          | Arthur e Eliás | Brenno       |
+| 01.10.2021 | 0.4    | Adição da entrevista 3 e problemas          | Laís e Ana     | Brenno       |
+| 14.10.2021 | 0.5    | Adição das imagens dos locais dos problemas | Laís e Ana     | Brenno       |
 
 ## 1. Introdução
 
@@ -67,7 +68,10 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 #### Tarefa 1
 
-<b>Local:</b> Barra de links <br>
+<img src="images/BarraDeLinks.png"><br>
+Imagem 1 - Fonte: Criação própria
+
+<b>Local:</b> Barra de links(Imagem 1) <br>
 <b>Fatores de usabilidade prejudicados:</b> Eficiência<br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema por aumentar o tempo que o usuário pode gastar procurando uma notícia<br>
 <b>Prioridade para correção:</b> Baixa<br>
@@ -75,7 +79,10 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 #### Tarefa 2
 
-<b>Local:</b> Barra de links e área de "Serviços mais procurados"<br>
+<img src="images/ServicosMaisProcurados.png"><br>
+Imagem 2 - Fonte: Criação própria
+
+<b>Local:</b> Barra de links(Imagem 1) e área de "Serviços mais procurados"(Imagem 2)<br>
 <b>Fatores de usabilidade prejudicados:</b> Eficiência<br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema por aumentar o tempo que o usuário pode gastar procurando uma notícia e confundi-lo com nomes parecidos mas que não apresentam a mesma funcionalidade<br>
 <b>Prioridade para correção:</b> Baixa<br>
@@ -83,7 +90,10 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 #### Tarefa 3
 
-<b>Local:</b> Página de Leis<br>
+<img width="560" height="315" src="images/prototipoLeis.jpeg"><br>
+Imagem 3 - Fonte: Criação própria
+
+<b>Local:</b> Página de Leis(Imagem 3)<br>
 <b>Fatores de usabilidade prejudicados:</b> Eficácia e Segurança<br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema por confundir o usuário no posicionamento dos itens<br>
 <b>Prioridade para correção:</b> Alta<br>
@@ -97,7 +107,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 #### Tarefa 1
 
-<b>Local:</b> Barra de links <br>
+<b>Local:</b> Barra de links(Imagem 1) <br>
 <b>Fatores de usabilidade prejudicados:</b> Aprendizagem <br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema porque o layout do site confundiu o usuário, dificultando a aprendizagem do sistema<br>
 <b>Prioridade para correção:</b> Média<br>
@@ -105,7 +115,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 #### Tarefa 2
 
-<b>Local:</b> Barra de links e área de "Serviços mais procurados"<br>
+<b>Local:</b> Barra de links(Imagem 1) e área de "Serviços mais procurados"(Imagem 2)<br>
 <b>Fatores de usabilidade prejudicados:</b> Eficácia e eficiência <br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema por existir um único caminho para o "DF no ponto", e este não é tão óbvio<br>
 <b>Prioridade para correção:</b> Baixa<br>
@@ -113,7 +123,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 #### Tarefa 3
 
-<b>Local:</b> Página de Leis<br>
+<b>Local:</b> Página de Leis(Imagem 3)<br>
 <b>Fatores de usabilidade prejudicados:</b> Eficiência <br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema por existir um único caminho na interface para realizar tal tarefa<br>
 <b>Prioridade para correção:</b> baixa<br>
@@ -127,7 +137,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 #### Tarefa 1
 
-<b>Local:</b> Barra de links <br>
+<b>Local:</b> Barra de links(Imagem 1) <br>
 <b>Fatores de usabilidade prejudicados:</b> Aprendizagem e Eficácia <br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema porque o layout do site confundiu o usuário, dificultando a aprendizagem do sistema. O usuário acesso que tantas opções na barra de menu, poderiam ser caóticas.<br>
 <b>Prioridade para correção:</b> Média<br>
@@ -135,7 +145,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 #### Tarefa 2
 
-<b>Local:</b> Barra de links e área de "Serviços mais procurados" e acesso a linhas de ônibus<br>
+<b>Local:</b> Barra de links(Imagem 1) e área de "Serviços mais procurados"(Imagem 2) e acesso a linhas de ônibus<br>
 <b>Fatores de usabilidade prejudicados:</b> Eficácia e eficiência <br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema por existir um único caminho para o "DF no ponto", e este não é tão óbvio.<br>
 <b>Prioridade para correção:</b> Alta<br>
@@ -143,7 +153,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 #### Tarefa 3
 
-<b>Local:</b> Página de Leis<br>
+<b>Local:</b> Página de Leis(Imagem 3)<br>
 <b>Fatores de usabilidade prejudicados:</b> Efíciência e Aprendizagem <br>
 <b>Descrição e justificativa do problema:</b> É caracterizado como um problema por existir um único caminho na interface para realizar tal tarefa. E também o usuário se confundiu a respeito das barras clicavéis e de ser uma página única.<br>
 <b>Prioridade para correção:</b> Média<br>
