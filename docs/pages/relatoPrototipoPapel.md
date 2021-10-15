@@ -54,7 +54,7 @@ Tabela 1 - Fonte: Livro Interação Humano-Computador e Experiência do usuário
 
 <div style="text-align: justify">Os seis membros do grupo foram divididos em duplas , com cada dupla realizando uma entrevista com pessoas diferentes.</div>
 
-<div style="text-align: justify">Foram realizadas três entrevistas com pessoas entre X e Y anos, todas moradores do Distrito Federal.</div>
+<div style="text-align: justify">Foram realizadas três entrevistas com pessoas entre 20 e 22 anos, todas moradores do Distrito Federal.</div>
 
 ## 2. Entrevistas
 
