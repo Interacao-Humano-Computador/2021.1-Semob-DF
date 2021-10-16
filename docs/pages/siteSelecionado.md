@@ -67,7 +67,7 @@ Figura 1: Parte superior da página inicial<br>
 <img src="images/site-selecionado-tabela1.png"> <br>
 Tabela 1: Formulário para Avaliação Heurística - Visibilidade<br>
 
-<div style="text-align: justify">Ao continuar analisando o site foi identificado inconsistência em alguns links abrirem arquivos PDF em vez de páginas online sem qualquer identificação ao usuário, como pode ser identificado na figura (2) em que os links Organograma, Regimento e Mapa estratégico direcionam a um arquivo externo.<div style="text-align: justify">
+<div style="text-align: justify">Ao continuar analisando o site foi identificado inconsistência em alguns links, pois estes abrem arquivos PDF em vez de páginas online sem qualquer identificação ao usuário, como pode ser identificado na figura (2) em que os links Organograma, Regimento e Mapa estratégico direcionam a um arquivo externo.<div style="text-align: justify">
 
 <img src="images/site-selecionado-figura2.png"> <br>
 Figura 2: Barra de navegação expandida<br>
