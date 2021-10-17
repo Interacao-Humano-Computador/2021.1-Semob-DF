@@ -6,7 +6,8 @@
 | ---------- | ------ | ---------------------------------- | -------------- | ------------ |
 | 14.10.2021 | 0.1    | Criação do escopo do documento     | Brenno         |              |
 | 14.10.2021 | 0.2    | Adição da entrevista 1 e problemas | Brenno e Lívia |              |
-
+| 14.10.2021 | 0.3    | Adição da entrevista 3 | Lais |             |
+| 17.10.2021 | 0.4    | Adição da entrevista 2 e problemas | Eliás e Arthur |              |
 ## 1. Introdução
 
 ### 1.1. Metodologia
@@ -76,6 +77,10 @@ Tabela 1 - Fonte: Adaptado do Livro Interação Humano-Computador e Experiência
 <div style="text-align: justify"> Esta avaliação não foi capaz de identificar problemas de usabilidade no.</div>
 
 ### 2.3. Entrevista 3
+
+<div style="width: 50%;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LbRisyiPCNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 #### Tarefa 1
 
