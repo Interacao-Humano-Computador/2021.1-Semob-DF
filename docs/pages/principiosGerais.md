@@ -8,7 +8,7 @@ Data | Versão | Descrição | Autor(es) | Revisado por
 03/09/2021 | 0.5 | Realização dos subtópicos: Visibilidade e Reconhecimento, Conteúdo Relevante Expressação Adequada e Projeto para Erros. Referências| Ana Júlia | Lívia Rodrigues
 
 ## Introdução
-Foram feitos princípios e diretrizes que nos mostram como projetar um sistema que atenda às necessidades do usuário, para que ele possa aprender, e utilizar os sistemas de modo rápido e prático. Norman destaca a necessidade de projetar o sistema utilizando o modelo conceitual, que deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo.
+Foram feitos princípios e diretrizes que nos mostram como projetar um sistema que atenda as necessidades do usuário, para que ele possa aprender e utilizar os sistemas de modo rápido e prático. Norman destaca a necessidade de projetar o sistema utilizando o modelo conceitual, que deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo.
 
 O designer auxilia o usuário a ter a melhor experiência possível, então seguindo esses princípios e diretrizes o design poderá ser projetado de modo a ter um sistema útil e prático a quem o utilizar.
 
@@ -17,7 +17,7 @@ O designer auxilia o usuário a ter a melhor experiência possível, então segu
 ### Correspondências com a expectativa do usuário
 Em relação ao produto o usuário tem uma expectativa, que pode ser boa ou ruim. 
 
-Em sistemas digitais a ordem das ações do usuário precisa ser o mais parecido com o do mundo físico. Como no exemplo da imagem abaixo, uma pessoa ao ir a uma loja comprar uma roupa, por exemplo, ela não se identifica com os seus dados pessoais antes de poder escolher o produto. Assim tem que ser ao comprar a roupa em um site também, primeiro você olha o catálogo e após a escolha que faz o login para finalizar a compra. Segundo Norman isso é **explorar os mapeamentos naturais. **
+Em sistemas digitais a ordem das ações do usuário precisa ser o mais parecido com o do mundo físico. Como no exemplo da imagem abaixo, uma pessoa ao ir a uma loja comprar uma roupa, por exemplo, ela não se identifica com os seus dados pessoais antes de poder escolher o produto. Assim tem que ser ao comprar a roupa em um site também, primeiro você olha o catálogo e após a escolha que faz o login para finalizar a compra. Segundo Norman isso é <b>explorar os mapeamentos naturais.</b>
 
 <img width="487px" height="156px" src="images/sequenciaIdentificacaoUsuario.png">
 
