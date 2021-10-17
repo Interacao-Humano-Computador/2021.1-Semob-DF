@@ -5,7 +5,8 @@
 | Data       | Versão | Descrição                          | Autor(es)      | Revisado por |
 | ---------- | ------ | ---------------------------------- | -------------- | ------------ |
 | 14.10.2021 | 0.1    | Criação do escopo do documento     | Brenno         |              |
-| 14.10.2021 | 0.2    | Adição da entrevista 1 e problemas | Brenno e Lívia |              |
+| 14.10.2021 | 0.2    | Adição da entrevista 1 e problemas | Brenno e Lívia |    
+| 14.10.2021 | 0.3    | Adição da entrevista 3 | Lais |             |
 
 ## 1. Introdução
 
@@ -78,6 +79,11 @@ Tabela 1 - Fonte: Adaptado do Livro Interação Humano-Computador e Experiência
 #### Tarefa 3
 
 ### 2.3. Entrevista 3
+
+<div style="width: 50%;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LbRisyiPCNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 #### Tarefa 1
 
