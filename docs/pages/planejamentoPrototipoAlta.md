@@ -4,13 +4,13 @@
 
 | Data       | Versão | Descrição                             | Autor(es)             | Revisado por |
 | ---------- | ------ | ------------------------------------- | --------------------- | ------------ |
-| 30.09.2021 | 0.1    | Adição da metodologia a ser utilizada | Brenno                |              |
-| 01.10.2021 | 0.1.1  | Correções na metodologia              | Brenno                |              |
+| 30.09.2021 | 0.1    | Adição da metodologia a ser utilizada | Brenno                |  Lívia       |
+| 01.10.2021 | 0.1.1  | Correções na metodologia              | Brenno                |  Lívia       |
 | 01.10.2021 | 0.1.2  | Adição do protótipo                   | Brenno, Eliás e Lívia |Laís          |
 
 ## 1. Introdução
 
-<div style="text-align: justify">A utilização de protótipos de alta fidelidade são de grande valia na processo de análise da interação humano-computador que, por meio de uma avaliação somativa, permite julgar a qualidade de uso de uma solução procurando ainda identificar se as metas de usabilidade foram alcançadas. Para nossa avaliação iremos utilizar entrevistas com elementos da metodologia de prototipação em papel. O método será dividido em:
+<div style="text-align: justify">A utilização de protótipos de alta fidelidade são de grande valia no processo de análise da interação humano-computador que, por meio de uma avaliação somativa, permite julgar a qualidade de uso de uma solução procurando ainda identificar se as metas de usabilidade foram alcançadas. Para nossa avaliação iremos utilizar entrevistas com elementos da metodologia de prototipação em papel. O método será dividido em:
 </div>
 
 | Atividade                   | Tarefa                                                                                                                                                                                 |
