@@ -1,9 +1,10 @@
-## Histórico de versão
+## Versionamento
 
 | Data       | Versão | Descrição                                         | Autor(es)       |
 | ---------- | ------ | ------------------------------------------------- | --------------- |
 | 15/08/2021 | 0.1    | Abertura do documento                             | Eliás Yousef    |
 | 14/10/2021 | 0.2    | Adição do Figma, Balsamiq, Teams e StoryBoardThat | Brenno Oliveira |
+18.08.2021 | 0.3 | Padronização do nome do versionamento | Lais Portela
 
 <br>
 

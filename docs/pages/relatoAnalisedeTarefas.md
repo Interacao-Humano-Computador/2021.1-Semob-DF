@@ -1,9 +1,10 @@
 # Relato da Análise de Tarefas
 
-### Histórico de versão
+## Versionamento
 Data | Versão | Descrição | Autor(es)|Revisado por
 --|--|--|--|--
 18/09/2021 | 0.1 | Criação do conteúdo | Arthur, Brenno e Eliás | Lívia Rodrigues |
+18.08.2021 | 0.2 | Padronização do nome do versionamento | Lais Portela
 
 ### 1. Introdução
 <div style="text-align: justify">Neste documento estará documentado as coletas e interpretação dos dados com seu devido relato, seguindo o método do Percurso Cognitivo, especificado na área de <a href="https://interacao-humano-computador.github.io/2021.1-Semob-DF/#/pages/planejamentoAnaliseTarefas">Planejamento</a></div>

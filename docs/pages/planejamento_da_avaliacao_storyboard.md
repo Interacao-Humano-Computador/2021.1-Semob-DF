@@ -1,11 +1,12 @@
 
 # Planejamento da avaliação do Storyboard
 
-## Histórico de versão
+## Versionamento
 Data | Versão | Descrição | Autor(es)|Revisado por
 --|--|--|--|--
 11/09/2021 | 0.1 | Criação do conteúdo | Laís Portela| Lívia Rodrigues
 11/09/2021 | 0.2 | Adição de pontuação | Laís Portela| Livia Rodrigues
+18.08.2021 | 0.3 | Padronização do nome do versionamento | Lais Portela
 
 ## Introdução
 

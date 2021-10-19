@@ -1,4 +1,4 @@
-### Histórico de Versão
+### Versionamento
 Data | Versão | Descrição | Autor(es) | Revisado por
  -- | -- | -- | -- | --
  03/09/2021 | 0.1 | Criação do documento | Ana Júlia | Laís Portela
@@ -6,6 +6,7 @@ Data | Versão | Descrição | Autor(es) | Revisado por
  03/09/2021 | 0.3 | Realização dos subtópicos: Simplicidade nas estruturas das tarefas e Equilíbrio entre controle e liberdade do usuário| Ana Júlia | Laís Portela
 03/09/2021 | 0.4 | Realização dos subtópicos: Consistência e Padronização, Promovendo a Eficiência do Usuário e Antecipação. Introdução e Conclusão| Laís Portela | Ana Júlia
 03/09/2021 | 0.5 | Realização dos subtópicos: Visibilidade e Reconhecimento, Conteúdo Relevante Expressação Adequada e Projeto para Erros. Referências| Ana Júlia | Lívia Rodrigues
+18.08.2021 | 0.6 | Padronização do nome do versionamento | Lais Portela
 
 ## Introdução
 Foram feitos princípios e diretrizes que nos mostram como projetar um sistema que atenda as necessidades do usuário, para que ele possa aprender e utilizar os sistemas de modo rápido e prático. Norman destaca a necessidade de projetar o sistema utilizando o modelo conceitual, que deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo.
