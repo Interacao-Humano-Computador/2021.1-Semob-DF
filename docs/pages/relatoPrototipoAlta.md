@@ -6,8 +6,9 @@
 | ---------- | ------ | ---------------------------------- | -------------- | ------------ |
 | 14.10.2021 | 0.1    | Criação do escopo do documento     | Brenno         |              |
 | 14.10.2021 | 0.2    | Adição da entrevista 1 e problemas | Brenno e Lívia |              |
-| 14.10.2021 | 0.3    | Adição da entrevista 3 | Lais |             |
-| 17.10.2021 | 0.4    | Adição da entrevista 2 e problemas | Eliás e Arthur |              |
+| 14.10.2021 | 0.3    | Adição da entrevista 3 | Lais | Lívia |
+| 17.10.2021 | 0.4    | Adição da entrevista 2 e problemas | Eliás e Arthur | Lívia |
+| 18.10.2021 | 0.5    | Problemas da entrevista 3| Lívia |       |
 ## 1. Introdução
 
 ### 1.1. Metodologia
@@ -44,7 +45,7 @@ Tabela 1 - Fonte: Adaptado do Livro Interação Humano-Computador e Experiência
 
 ###### Explicação da tarefa
 
-<div style="text-align: justify"> Para acessar a página que contém informações a respeito das leis que envolvem o trasnporte público, o usuário deverá: acessar o site do SEMOB, em seguida, procurar na parte esquerda da tela a opção Leis e Regulamentação, clicando nessa opção, o usuário será levado para um nova página(Leis e Regulamentação). Nessa página ele informará o ano desejado, e em seguida poderá acessar a lei desejada.</div>
+<div style="text-align: justify"> Para acessar a página que contém informações a respeito das leis que envolvem o transporte público, o usuário deverá: acessar o site do SEMOB, em seguida, procurar na parte esquerda da tela a opção Leis e Regulamentação, clicando nessa opção, o usuário será levado para um nova página (Leis e Regulamentação). Nessa página ele informará o ano desejado, e em seguida poderá acessar a lei desejada.</div>
 
 ### 1.3. Perfil
 
@@ -54,7 +55,7 @@ Tabela 1 - Fonte: Adaptado do Livro Interação Humano-Computador e Experiência
 
 ## 2. Entrevistas
 
-<div style="text-align: justify">Nessa seção será documento as entrevistas, com o vídeo da gravação e  os possíveis problemas encontrados pelos participantes e identificados pelos entrevistadores durante a avaliação.</div>
+<div style="text-align: justify">Nessa seção será documentado as entrevistas, com o vídeo da gravação e os possíveis problemas encontrados pelos participantes e identificados pelos entrevistadores durante a avaliação.</div>
 
 ### 2.1. Entrevista 1
 
@@ -74,7 +75,7 @@ Tabela 1 - Fonte: Adaptado do Livro Interação Humano-Computador e Experiência
 
 #### Problemas
 
-<div style="text-align: justify"> Esta avaliação não foi capaz de identificar problemas de usabilidade no.</div>
+<div style="text-align: justify"> Esta avaliação não foi capaz de identificar problemas de usabilidade no site.</div>
 
 ### 2.3. Entrevista 3
 
@@ -82,11 +83,9 @@ Tabela 1 - Fonte: Adaptado do Livro Interação Humano-Computador e Experiência
     <iframe width="560" height="315" src="https://www.youtube.com/embed/LbRisyiPCNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### Tarefa 1
+#### Problemas
 
-#### Tarefa 2
-
-#### Tarefa 3
+<div style="text-align: justify"> A entrevistada citou a dificuldade em achar as linhas de transporte no site.</div>
 
 ## 3. Bibliografia
 
