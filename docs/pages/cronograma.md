@@ -1,7 +1,8 @@
-### Histórico de Versão
+### Versionamento
 Data | Versão | Descrição | Autor(es)
  -- | -- | -- | -- 
  15.08.2021 | 0.1 | Criação do documento | Lívia Rodrigues
+ 18.08.2021 | 0.2 | Padronização do nome do versionamento | Lais Portela
 
 ## 1. Cronograma das entregas
  

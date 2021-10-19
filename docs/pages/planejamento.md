@@ -1,10 +1,11 @@
 # Planejamento
 
-### Histórico de versão
+## Versionamento
 Data | Versão | Descrição | Autor(es)|Revisado por
 --|--|--|--|--
 15/08/2021 | 0.1 | Criação do conteúdo | Ana Júlia | |
 12/09/2021 | 0.2 | Adição do texto explicativo | Ana Júlia | |
+18.08.2021 | 0.3 | Padronização do nome do versionamento | Lais Portela
 
 ## Sites Avaliados
 Antes de selecionar um site, foi necessário fazer uma pesquisa com diversos sites da internet, em que todos passaram por uma avaliação heurística de usuabilidade. Abaixo estão listados os sites que foram avaliados e um pequeno relato de seus objetivos.

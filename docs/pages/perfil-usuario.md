@@ -1,10 +1,11 @@
-### Histórico de Versão
+### Versionamento
 Data | Versão | Descrição | Autor(es) | Revisado por
  -- | -- | -- | -- | --
  27.08.2021 | 0.1 | Criação do documento | Lívia Rodrigues |
  27.08.2021 | 0.2 | Adição da referência | Lívia Rodrigues |
 27.08.2021 | 0.3 | Adição dos gráficos e conclusão | Lais Portela |
 27.08.2021 | 0.3 | Mudança de nome dos gráficos | Lais Portela | Ana Júlia
+18.08.2021 | 0.4 | Padronização do nome do versionamento | Lais Portela
 
 ## 1.Introdução
 

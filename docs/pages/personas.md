@@ -1,6 +1,8 @@
+### Versionamento
 Data | Versão | Descrição | Autor(es) | Revisado por
  -- | -- | -- | -- | --
  31.08.2021 | 0.1 | Criação do documento | Arthur e Ana Júlia | Brenno
+18.08.2021 | 0.2 | Padronização do nome do versionamento | Lais Portela
 
 ## Personas e Anti Personas
 • Personas: São personagens não reais , apenas um modelo de determinadas pessoas, para descrever seus comportamentos.

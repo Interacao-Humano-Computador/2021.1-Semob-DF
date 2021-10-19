@@ -2,9 +2,10 @@
 
 ## Versionamento
 
-| Data       | Versão | Descrição           | Autor(es) | Revisado por |
-| ---------- | ------ | ------------------- | --------- | ------------ |
-| 01.10.2021 | 0.1    | Adição do documento | Brenno    | Laís Portela  |
+| Data       | Versão | Descrição                                        | Autor(es) | Revisado por |
+| ---------- | ------ | ------------------------------------------------ | --------- | ------------ |
+| 01.10.2021 | 0.1    | Adição do documento                              | Brenno    | Laís Portela |
+| 09.10.2021 | 0.2    | Adição das três últimas perguntas da verificação | Brenno    |              |
 
 ## 1. Introdução
 
@@ -15,13 +16,15 @@
 
 ## 2. Perguntas
 
-| Pergunta                                                    | Está conforme? |
-| ----------------------------------------------------------- | -------------- |
-| O histórico de versão está padronizado?                     | Não            |
-| A ortografia está correta?                                  | Não            |
-| Possui referências/bibliografia?                            | Não            |
-| A referências/bibliografia estão sendo usadas corretamente? | Não se aplica  |
-| Possui a aplicação ao projeto?                              | Não            |
+| Pergunta                                                              | Está conforme? |
+| --------------------------------------------------------------------- | -------------- |
+| O histórico de versão está padronizado?                               | Não            |
+| A ortografia está correta?                                            | Não            |
+| Possui referências/bibliografia?                                      | Não            |
+| A referências/bibliografia estão sendo usadas corretamente?           | Não se aplica  |
+| As fases do Ciclo de vida de Mayhew estão descritas?                  | Sim            |
+| É explicado o motivo de ter sido escolhido o ciclo de vida de Mayhew? | Não            |
+| É apresentado o ciclo de vida de Mayhew?                              | Não            |
 
 Tabela 1 - Fonte: Autor
 
@@ -30,7 +33,8 @@ Tabela 1 - Fonte: Autor
 - O documento não apresenta o histórico de versão
 - Erros ortográficos foram encontrados
 - O documento não dispõe de referências ou bibliografia
-- Não está espicificado como o processo será aplicado no projeto
+- Não está espicificado o motivo de ter sido escolhido o ciclo de vida de Mayhew
+- Não é apresentado o ciclo de vida completo, isto é, a imagem ilustrativa do ciclo
 
 ## 4. Bibliografia
 
