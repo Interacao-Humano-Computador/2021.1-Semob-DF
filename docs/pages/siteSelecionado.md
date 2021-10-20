@@ -1,4 +1,4 @@
-### Histórico de Versão
+### Versionamento
 
 | Data       | Versão | Descrição                                         | Autor(es)       |
 | ---------- | ------ | ------------------------------------------------- | --------------- |

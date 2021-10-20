@@ -1,4 +1,4 @@
-# Relato do Protótipo de Baixa Fidelidade
+# Relato do Protótipo de Alta Fidelidade
 
 ## Versionamento
 
@@ -6,9 +6,10 @@
 | ---------- | ------ | ---------------------------------- | -------------- | ------------ |
 | 14.10.2021 | 0.1    | Criação do escopo do documento     | Brenno         |              |
 | 14.10.2021 | 0.2    | Adição da entrevista 1 e problemas | Brenno e Lívia |              |
-| 14.10.2021 | 0.3    | Adição da entrevista 3 | Lais | Lívia |
-| 17.10.2021 | 0.4    | Adição da entrevista 2 e problemas | Eliás e Arthur | Lívia |
-| 18.10.2021 | 0.5    | Problemas da entrevista 3| Lívia |       |
+| 14.10.2021 | 0.3    | Adição da entrevista 3             | Lais           | Lívia        |
+| 17.10.2021 | 0.4    | Adição da entrevista 2 e problemas | Eliás e Arthur | Lívia        |
+| 18.10.2021 | 0.5    | Problemas da entrevista 3          | Lívia          |              |
+
 ## 1. Introdução
 
 ### 1.1. Metodologia
