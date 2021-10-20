@@ -13,7 +13,7 @@
 
 ## 2. Metodologia
 
-<div style="text-align: justify">Em nosso projeto iremos realizar revisões individuais auxiliadas por checklists para garantir que as metas e informações necessárias para cada documento está sendo seguida.</div>
+<div style="text-align: justify">Em nosso projeto iremos realizar revisões individuais auxiliadas por checklists para garantir que as metas e informações necessárias para cada documento estão sendo seguidas.</div>
 <div style="text-align: justify">Serão definidas perguntas para realizar as checklists, designando pelo menos uma pessoa para realizar a verificação, documentando assim possíveis erros ou inconsistências em nosso projeto.</div>
 
 ## 3. Separação dos documentos
@@ -108,10 +108,6 @@
 <b>Autor(es):</b> Todo grupo<br>
 <b>Inspetor/Moderador:</b> Laís Portela<br>
 <a href="https://interacao-humano-computador.github.io/2021.1-Semob-DF/#/pages/verificacoes/planejamentoPrototipoPapel">A verificação pode ser acessada aqui</a>
-
-<b>Protótipo de Alta de Fidelidade</b><br>
-<b>Autor(es):</b> Todo grupo<br>
-<b>Inspetor/Moderador:</b> Laís Portela<br>
 
 ## 4. Bibliografia
 
